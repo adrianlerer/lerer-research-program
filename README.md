@@ -189,12 +189,13 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (61 records, open access)
+## Papers — Zenodo (62 records, open access)
 
 All papers are freely downloadable. Community: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-03-29 | The Intelligence Explosion That Will Calcify: Extended Phenotype Theory, Asymmetric Intentionality, and the Evolutionary Pathologies of Agent Institutions | [10.5281/zenodo.19323303](https://doi.org/10.5281/zenodo.19323303) · [PDF](papers/Lerer_2026_Intelligence_Explosion_Calcify.pdf) |
 | 2026-03-25 | Metaphors as Legal Memes: EPT, HBU, and the Evolutionary Dynamics of AI Regulatory Language | [10.5281/zenodo.19226108](https://doi.org/10.5281/zenodo.19226108) |
 | 2026-03-24 | Obiter Creep: How Marginal Dicta Colonize Ratio Decidendi Through Extended Phenotype Mechanisms | [10.5281/zenodo.19205884](https://doi.org/10.5281/zenodo.19205884) |
 | 2026-03-24 | Lamarckian Replicators in Darwinian Hierarchies: Reconciling Gene-Centered and Multilevel Selection Approaches to Legal Evolution | [10.5281/zenodo.19199269](https://doi.org/10.5281/zenodo.19199269) |
