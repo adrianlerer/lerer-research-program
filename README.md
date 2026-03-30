@@ -14,7 +14,7 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He has published over 70 working papers on SSRN and Zenodo since 2024, and has two manuscripts under peer review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He has published over 125 working papers on SSRN and Zenodo since 2024 (64 on Zenodo, 62 on SSRN), and has two manuscripts under peer review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
@@ -82,14 +82,14 @@ CLI = 0.30×P + 0.25×D + 0.20×O + 0.25×E
 
 | Jurisdiction | CLI | Reform outcome |
 |---|---|---|
-| Argentina (Art. 14bis) | 0.87–0.89 | 0/23 successful over 4 decades |
+| Argentina (Art. 14bis) | 0.87–0.89 | 0/24 successful over 4 decades |
 | Brazil (CLT pre-2017) | 0.40 | 2017 reform succeeded |
 | Chile | 0.24 | 15/17 succeeded, bidirectionally |
 | Spain | 0.37–0.51 | 2012 reform succeeded |
 
 Counterintuitive finding: **crisis reinforces lock-in in high-CLI systems** (interaction term β=−2.83, p<0.05). Political economy variables lose significance when CLI is controlled.
 
-**Prospective validation**: Milei 2024 reform program — CLI predicted 12.4% success probability; observed 0% (p=0.003).
+**Prospective validation**: Milei 2024 reform program — CLI predicted 12.4% success probability; observed 0% (p=0.003). CGT injunction against Law 27.802 (March 30, 2026) confirmed as observation #24: blocking interval of 24 days, Bayesian posterior updated from P(blocking)=0.92 to **0.94** (95% CI: 0.78–0.99). See [10.5281/zenodo.19340088](https://doi.org/10.5281/zenodo.19340088).
 
 **Thresholds**:
 - CLI < 0.30: flexible (ordinary legislation works)
