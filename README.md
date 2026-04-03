@@ -5,7 +5,7 @@
 Independent Researcher · Buenos Aires, Argentina
 ORCID: [0009-0007-6378-9749](https://orcid.org/0009-0007-6378-9749)
 Email: adrian@lerer.com.ar
-Zenodo community: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/)
+Zenodo communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/)
 Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 ---
@@ -191,7 +191,7 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ## Papers — Zenodo (66 records, open access)
 
-All papers are freely downloadable. Community: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/).
+All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 | Date | Title | DOI |
 |------|-------|-----|
