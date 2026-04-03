@@ -189,12 +189,13 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (64 records, open access)
+## Papers — Zenodo (65 records, open access)
 
 All papers are freely downloadable. Community: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-03-30 | Synthetic Minds in Normative Sandboxes: Exaptation, Spandrels, and Multilevel Selection in Agent-Based Legal Simulation | [10.5281/zenodo.19341388](https://doi.org/10.5281/zenodo.19341388) |
 | 2026-03-30 | Judicial Lock-in as Evolutionarily Stable Strategy: The CGT Injunction Against Law 27.802 as Confirmatory Evidence for the Constitutional Lock-in Index | [10.5281/zenodo.19340088](https://doi.org/10.5281/zenodo.19340088) |
 | 2026-03-30 | Predatory Invitations as Extended Phenotype: A Parasitic Spontaneous Order Analysis Across Academic and Literary Publishing | [10.5281/zenodo.19339642](https://doi.org/10.5281/zenodo.19339642) |
 | 2026-03-29 | The Intelligence Explosion That Will Calcify: Extended Phenotype Theory, Asymmetric Intentionality, and the Evolutionary Pathologies of Agent Institutions | [10.5281/zenodo.19323303](https://doi.org/10.5281/zenodo.19323303) · [PDF](papers/Lerer_2026_Intelligence_Explosion_Calcify.pdf) |
