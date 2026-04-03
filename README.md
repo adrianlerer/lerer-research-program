@@ -189,12 +189,13 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (66 records, open access)
+## Papers — Zenodo (67 records, open access)
 
 All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-04-03 | The Epistemic Foundation of the Endogeneity Paradox: Common Knowledge, Intentionality Mismatch, and the Sequential Protocol | [10.5281/zenodo.19394406](https://doi.org/10.5281/zenodo.19394406) |
 | 2026-04-01 | The Concept Bottleneck as a Deterministic Evaluation Layer: Implementation of Small Concept Models for Legal Reasoning via OpenAI Structured Outputs | [10.5281/zenodo.19373345](https://doi.org/10.5281/zenodo.19373345) |
 | 2026-03-30 | Synthetic Minds in Normative Sandboxes: Exaptation, Spandrels, and Multilevel Selection in Agent-Based Legal Simulation | [10.5281/zenodo.19341388](https://doi.org/10.5281/zenodo.19341388) |
 | 2026-03-30 | Judicial Lock-in as Evolutionarily Stable Strategy: The CGT Injunction Against Law 27.802 as Confirmatory Evidence for the Constitutional Lock-in Index | [10.5281/zenodo.19340088](https://doi.org/10.5281/zenodo.19340088) |
