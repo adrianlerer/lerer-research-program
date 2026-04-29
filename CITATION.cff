@@ -9,10 +9,13 @@ title: "Lerer Research Program: Extended Phenotype Theory of Law"
 type: software
 repository-code: https://github.com/adrianlerer/lerer-research-program
 abstract: >
-  Working papers on the Extended Phenotype Theory of Law (EPT),
+  Research program on the Extended Phenotype Theory of Law (EPT),
   combining evolutionary game theory, Dawkins's extended phenotype
   theory, and Dennett's intentionality hierarchy to analyze
-  legal institutions and governance.
+  legal institutions and governance. Includes 69 working papers
+  on Zenodo and one peer-reviewed article published in the
+  Journal of Computational Law and Legal Technology (JCLLT,
+  DOI: 10.47852/bonviewJCLLT62027951).
 keywords:
   - extended phenotype theory
   - evolutionary jurisprudence
@@ -21,4 +24,5 @@ keywords:
   - evolutionary game theory
   - institutional economics
   - legal evolution
+  - peer-reviewed
 license: CC-BY-4.0
