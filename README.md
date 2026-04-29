@@ -14,7 +14,7 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He has published over 110 working papers on SSRN and Zenodo since 2024 (64 on Zenodo, 62 on SSRN, with partial overlap between the two repositories), and has two manuscripts under peer review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He has published over 110 working papers on SSRN and Zenodo since 2024 (69 on Zenodo, 62 on SSRN, with partial overlap between the two repositories), has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
@@ -89,7 +89,7 @@ CLI = 0.30×P + 0.25×D + 0.20×O + 0.25×E
 
 Counterintuitive finding: **crisis reinforces lock-in in high-CLI systems** (interaction term β=−2.83, p<0.05). Political economy variables lose significance when CLI is controlled.
 
-**Prospective validation**: Milei 2024 reform program — CLI predicted 12.4% success probability; observed 0% (p=0.003). CGT injunction against Law 27.802 (March 30, 2026) confirmed as observation #24: blocking interval of 24 days, Bayesian posterior updated from P(blocking)=0.92 to **0.94** (95% CI: 0.78–0.99). See [10.5281/zenodo.19340088](https://doi.org/10.5281/zenodo.19340088).
+**Prospective validation**: Milei 2024 reform program — CLI predicted 12.4% success probability; observed 0% (p=0.003). CGT injunction against Law 27.802 (March 30, 2026) confirmed as observation #24: blocking interval of 24 days, Bayesian posterior updated from P(blocking)=0.92 to **0.94** (95% CI: 0.78–0.99). See [10.5281/zenodo.19340088](https://doi.org/10.5281/zenodo.19340088). The computational validation framework is published in JCLLT: [10.47852/bonviewJCLLT62027951](https://doi.org/10.47852/bonviewJCLLT62027951).
 
 **Thresholds**:
 - CLI < 0.30: flexible (ordinary legislation works)
@@ -189,12 +189,18 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (67 records, open access)
+## Papers — Zenodo (72 records, open access)
 
 All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-04-29 | Strategy Trendslop as Parasitic Spontaneous Order: Why Large Language Models Converge on Managerial Buzzwords Regardless of Context | [10.5281/zenodo.19867851](https://doi.org/10.5281/zenodo.19867851) |
+| 2026-04-28 | Law as Constructed Niche: Reciprocal Causation Between Extended Phenotypes and Selective Environments in Institutional Evolution | [10.5281/zenodo.19839047](https://doi.org/10.5281/zenodo.19839047) |
+| 2026-04-27 | Normative Collapse and Institutional Persistence in Authoritarian Regimes: A Multilevel Selection Framework with Computational Validation | [10.5281/zenodo.19806122](https://doi.org/10.5281/zenodo.19806122) |
+| 2026-04-27 | Agents as Extended Phenotypes: Behavioral Transfer, Asymmetric Intentionality, and the Evolutionary Stability of Privacy Degradation in Agentic Systems | [10.5281/zenodo.19802281](https://doi.org/10.5281/zenodo.19802281) |
+| 2026-04-24 | The Lateral Silencing Exaptation: Unenforceable Norms as Extended Phenotypes of Political Control | [10.5281/zenodo.19720028](https://doi.org/10.5281/zenodo.19720028) |
+| 2026-04-08 | **[PUBLISHED — JCLLT]** Computational Detection of Constitutional Drift: Network Analysis and Semantic Measurement of Argentine Supreme Court Jurisprudence (1922–2025) | [10.47852/bonviewJCLLT62027951](https://doi.org/10.47852/bonviewJCLLT62027951) |
 | 2026-04-03 | The Epistemic Foundation of the Endogeneity Paradox: Common Knowledge, Intentionality Mismatch, and the Sequential Protocol | [10.5281/zenodo.19394406](https://doi.org/10.5281/zenodo.19394406) |
 | 2026-04-01 | The Concept Bottleneck as a Deterministic Evaluation Layer: Implementation of Small Concept Models for Legal Reasoning via OpenAI Structured Outputs | [10.5281/zenodo.19373345](https://doi.org/10.5281/zenodo.19373345) |
 | 2026-03-30 | Synthetic Minds in Normative Sandboxes: Exaptation, Spandrels, and Multilevel Selection in Agent-Based Legal Simulation | [10.5281/zenodo.19341388](https://doi.org/10.5281/zenodo.19341388) |
@@ -333,11 +339,18 @@ All papers are freely downloadable. Communities: [law-as-extended-phenotype](htt
 
 ---
 
+## Published Articles
+
+| Title | Journal | DOI |
+|-------|---------|-----|
+| Computational Detection of Constitutional Drift: Network Analysis and Semantic Measurement of Argentine Supreme Court Jurisprudence (1922–2025) | *Journal of Computational Law and Legal Technology* | [10.47852/bonviewJCLLT62027951](https://doi.org/10.47852/bonviewJCLLT62027951) |
+
+---
+
 ## Journals Under Review
 
 | Manuscript | Title | Journal | Status |
 |-----------|-------|---------|--------|
-| #7951 | Computational Detection of Constitutional Drift (Peralta Metamorphosis) | JCLLT | Second round peer review |
 | #9516 | Predatory Invitations as Extended Phenotype | JCLLT | Under review |
 
 ---
