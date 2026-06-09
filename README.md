@@ -14,7 +14,7 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 122 Zenodo DOI records and 62 SSRN records, with partial overlap between the two repositories, and has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 122 Zenodo DOI records and 62 SSRN records, with all SSRN archive entries cross-referenced to their Zenodo records, and has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
@@ -328,7 +328,7 @@ All papers are freely downloadable. Communities: [law-as-extended-phenotype](htt
 |---------|-------|-----|--------|
 | [5387400](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5387400) | The Legislator as Extended Phenotype: A Darwinian Theory of Legal Evolution | [PDF](papers/5387400-The-Legislator-as-Extended-Phenotype-A-Darwinian-T.pdf) | [10.5281/zenodo.18566652](https://doi.org/10.5281/zenodo.18566652) |
 | [5391036](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5391036) | Two Paths, One Evolution: Testing the Extended Phenotype Theory Across Legal Systems | [PDF](papers/5391036-Two-Paths-One-Evolution-Testing-the.pdf) | [10.5281/zenodo.18567507](https://doi.org/10.5281/zenodo.18567507) |
-| [5402461](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5402461) | Constitutional Lock-in and the Phenotypic Expression of Legal Resistance | [PDF](papers/5402461-Law-as-Language-From-Scandinavian.pdf) | Pending review: PDF/title mismatch |
+| [5402461](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5402461) | Law as Language: From Scandinavian Realism to Evolutionary Jurisprudence | [PDF](papers/5402461-Law-as-Language-From-Scandinavian.pdf) | [10.5281/zenodo.18576390](https://doi.org/10.5281/zenodo.18576390) |
 | [5405459](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405459) | JurisRank: Measuring Legal Phenotypic Fitness Through Citation Networks | [PDF](papers/5405459-JurisRank-Measuring-Legal-Phenotypic-Fitness-Throu.pdf) | [10.5281/zenodo.20613103](https://doi.org/10.5281/zenodo.20613103) |
 | [5428374](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5428374) | Evolutionary Genealogy of Corporate Criminal Liability | [PDF](papers/5428374-Evolutionary-Genealogy-of-Corporate-Criminal-Liabi.pdf) | [10.5281/zenodo.20612819](https://doi.org/10.5281/zenodo.20612819) |
 | [5454256](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5454256) | The Extended Phenotype of Artificial Intelligence | [PDF](papers/5454256-The-Extended-Phenotype-of-Artificial-Intelligence.pdf) | [10.5281/zenodo.18567734](https://doi.org/10.5281/zenodo.18567734) |
