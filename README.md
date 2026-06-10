@@ -195,7 +195,7 @@ All papers are freely downloadable. Communities: [law-as-extended-phenotype](htt
 
 | Date | Title | DOI |
 |------|-------|-----|
-| 2026-06-10 | Regulatory Prophecy as Parasitic Spontaneous Order: Epistemological Clergy, Panic Memes, and the Distortion of AI Governance | [10.5281/zenodo.20628818](https://doi.org/10.5281/zenodo.20628818) · [PDF](papers/20628818-Regulatory-Prophecy-as-Parasitic-Spontaneous-Order.pdf) |
+| 2026-06-10 | Regulatory Prophecy as Parasitic Spontaneous Order: Epistemological Clergy, Panic Memes, and the Distortion of AI Governance | [10.5281/zenodo.20630052](https://doi.org/10.5281/zenodo.20630052) · [PDF](papers/20630052-Regulatory-Prophecy-as-Parasitic-Spontaneous-Order-v2.pdf) |
 | 2026-06-09 | The Race to the Bottom as a Between-Level Selection Failure: Listing-Standards Competition, Governance as Extended Phenotype, and the Coalition Behind the Trust Argument | [10.5281/zenodo.20618956](https://doi.org/10.5281/zenodo.20618956) · [PDF](papers/20618956-The-Race-to-the-Bottom-as-Between-Level-Selection-Failure.pdf) |
 | 2026-06-09 | Outcome Control as Constitutional Constraint: The Argentine Model for Autonomous Legal Entities | [10.5281/zenodo.20613712](https://doi.org/10.5281/zenodo.20613712) · [PDF](papers/20613712-Outcome-Control-as-Constitutional-Constraint.pdf) |
 | 2026-06-09 | JurisRank: Measuring Legal Phenotypic Fitness Through Citation Networks | [10.5281/zenodo.20613103](https://doi.org/10.5281/zenodo.20613103) · [PDF](papers/20613103-JurisRank-Measuring-Legal-Phenotypic-Fitness-Through-Citation-Networks.pdf) |
