@@ -14,7 +14,7 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 124 Zenodo DOI records and 62 SSRN records, with all SSRN archive entries cross-referenced to their Zenodo records, and has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 125 Zenodo DOI records and 62 SSRN records, with all SSRN archive entries cross-referenced to their Zenodo records, and has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
@@ -189,12 +189,13 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (124 DOI records, open access)
+## Papers — Zenodo (125 DOI records, open access)
 
 All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-06-10 | Regulatory Prophecy as Parasitic Spontaneous Order: Epistemological Clergy, Panic Memes, and the Distortion of AI Governance | [10.5281/zenodo.20628818](https://doi.org/10.5281/zenodo.20628818) · [PDF](papers/20628818-Regulatory-Prophecy-as-Parasitic-Spontaneous-Order.pdf) |
 | 2026-06-09 | The Race to the Bottom as a Between-Level Selection Failure: Listing-Standards Competition, Governance as Extended Phenotype, and the Coalition Behind the Trust Argument | [10.5281/zenodo.20618956](https://doi.org/10.5281/zenodo.20618956) · [PDF](papers/20618956-The-Race-to-the-Bottom-as-Between-Level-Selection-Failure.pdf) |
 | 2026-06-09 | Outcome Control as Constitutional Constraint: The Argentine Model for Autonomous Legal Entities | [10.5281/zenodo.20613712](https://doi.org/10.5281/zenodo.20613712) · [PDF](papers/20613712-Outcome-Control-as-Constitutional-Constraint.pdf) |
 | 2026-06-09 | JurisRank: Measuring Legal Phenotypic Fitness Through Citation Networks | [10.5281/zenodo.20613103](https://doi.org/10.5281/zenodo.20613103) · [PDF](papers/20613103-JurisRank-Measuring-Legal-Phenotypic-Fitness-Through-Citation-Networks.pdf) |
