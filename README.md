@@ -189,12 +189,13 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (128 DOI records, open access)
+## Papers — Zenodo (129 DOI records, open access)
 
 All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-06-20 | Why Good Arguments Lose: Semantic Speciation and Memetic Fitness in Normative Concepts | [10.5281/zenodo.20776942](https://doi.org/10.5281/zenodo.20776942) · [PDF](papers/20776942-Why-Good-Arguments-Lose-Semantic-Speciation-and-Memetic-Fitness-in-Normative-Concepts-v2.pdf) |
 | 2026-06-14 | The Geometry of Normative Resistance: Holonomy, Curvature, and Constitutional Lock-in | [10.5281/zenodo.20694820](https://doi.org/10.5281/zenodo.20694820) · [PDF](papers/20694820-The-Geometry-of-Normative-Resistance-Holonomy-Curvature-and-Constitutional-Lock-in.pdf) |
 | 2026-06-13 | When Protection Laws Devour Their Intended Beneficiaries: Asymmetric Intentionality, Epistemological Clergy, and Parasitic Spontaneous Order in Asymmetric Gender Legislation | [10.5281/zenodo.20681311](https://doi.org/10.5281/zenodo.20681311) · [PDF](papers/20681311-When-Protection-Laws-Devour-Their-Intended-Beneficiaries.pdf) |
 | 2026-06-12 | Selected, Not Self-Evident: General Principles of Law as an Evolutionarily Stable Memetic Core | [10.5281/zenodo.20668384](https://doi.org/10.5281/zenodo.20668384) · [PDF](papers/20668384-Selected-Not-Self-Evident-General-Principles-of-Law.pdf) |
