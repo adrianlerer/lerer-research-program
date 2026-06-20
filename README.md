@@ -14,9 +14,20 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 127 Zenodo DOI records and 62 SSRN records, with all SSRN archive entries cross-referenced to their Zenodo records, and has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 129 Zenodo DOI records and 62 SSRN records, with all SSRN archive entries cross-referenced to their Zenodo records, and has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
+
+### NotebookLM Maintenance
+
+The `papers/` directory is the canonical source set for the research-program NotebookLM notebook. After adding or replacing a PDF, sync missing sources with:
+
+```bash
+LERER_NOTEBOOKLM_ID=<notebook-id> python3 tools/sync_notebooklm_papers.py --dry-run
+LERER_NOTEBOOKLM_ID=<notebook-id> python3 tools/sync_notebooklm_papers.py
+```
+
+The script requires the `nlm` CLI from `adrianlerer/notebooklm-mcp-cli` and uploads only filenames that are not already present as NotebookLM source titles.
 
 ---
 
