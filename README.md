@@ -14,7 +14,7 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 130 Zenodo DOI records and 62 SSRN records, with all SSRN archive entries cross-referenced to their Zenodo records, and has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 131 Zenodo DOI records and 62 SSRN records, with all SSRN archive entries cross-referenced to their Zenodo records, and has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
@@ -200,12 +200,13 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (130 DOI records, open access)
+## Papers — Zenodo (131 DOI records, open access)
 
 All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-06-29 | Despotism, Replicators, and Social Design: Betzig's Evidence as Empirical Foundation of the Extended Phenotype Theory of Law | [10.5281/zenodo.21042093](https://doi.org/10.5281/zenodo.21042093) · [PDF](papers/21042093-Despotism-Replicators-and-Social-Design-Betzig-Evidence-as-Empirical-Foundation-of-the-Extended-Phenotype-Theory-of-Law.pdf) |
 | 2026-06-20 | Normative Field Theory: A Gauge-Theoretic Unification of Constitutional Lock-in, Memetic Fitness, and Institutional Hysteresis in IusSpace | [10.5281/zenodo.20779167](https://doi.org/10.5281/zenodo.20779167) · [PDF](papers/20779167-Normative-Field-Theory-A-Gauge-Theoretic-Unification-of-Constitutional-Lock-in-Memetic-Fitness-and-Institutional-Hysteresis-in-IusSpace.pdf) |
 | 2026-06-20 | Why Good Arguments Lose: Semantic Speciation and Memetic Fitness in Normative Concepts | [10.5281/zenodo.20776942](https://doi.org/10.5281/zenodo.20776942) · [PDF](papers/20776942-Why-Good-Arguments-Lose-Semantic-Speciation-and-Memetic-Fitness-in-Normative-Concepts-v2.pdf) |
 | 2026-06-14 | The Geometry of Normative Resistance: Holonomy, Curvature, and Constitutional Lock-in | [10.5281/zenodo.20694820](https://doi.org/10.5281/zenodo.20694820) · [PDF](papers/20694820-The-Geometry-of-Normative-Resistance-Holonomy-Curvature-and-Constitutional-Lock-in.pdf) |
