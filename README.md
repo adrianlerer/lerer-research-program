@@ -14,7 +14,7 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 132 Zenodo DOI records and 62 SSRN records, with all SSRN archive entries cross-referenced to their Zenodo records, and has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 133 Zenodo DOI records and 62 SSRN records, with all SSRN archive entries cross-referenced to their Zenodo records, and has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
@@ -200,12 +200,13 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (132 DOI records, open access)
+## Papers — Zenodo (133 DOI records, open access)
 
 All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-06-30 | Corruption Without Guilt: An Extended Phenotype Model of Systemic Conflict-of-Interest Failure | [10.5281/zenodo.21084627](https://doi.org/10.5281/zenodo.21084627) · [PDF](papers/21084627-Corruption-Without-Guilt-An-Extended-Phenotype-Model-of-Systemic-Conflict-of-Interest-Failure.pdf) |
 | 2026-06-29 | Fictive Kinship Vocatives as Memetic Technology: An Evolutionary Analysis of "Primo", "Compadre", and "Brother" | [10.5281/zenodo.21052919](https://doi.org/10.5281/zenodo.21052919) · [PDF](papers/21052919-Fictive-Kinship-Vocatives-as-Memetic-Technology-An-Evolutionary-Analysis-of-Primo-Compadre-and-Brother.pdf) |
 | 2026-06-29 | Despotism, Replicators, and Social Design: Betzig's Evidence as Empirical Foundation of the Extended Phenotype Theory of Law | [10.5281/zenodo.21042093](https://doi.org/10.5281/zenodo.21042093) · [PDF](papers/21042093-Despotism-Replicators-and-Social-Design-Betzig-Evidence-as-Empirical-Foundation-of-the-Extended-Phenotype-Theory-of-Law.pdf) |
 | 2026-06-20 | Normative Field Theory: A Gauge-Theoretic Unification of Constitutional Lock-in, Memetic Fitness, and Institutional Hysteresis in IusSpace | [10.5281/zenodo.20779167](https://doi.org/10.5281/zenodo.20779167) · [PDF](papers/20779167-Normative-Field-Theory-A-Gauge-Theoretic-Unification-of-Constitutional-Lock-in-Memetic-Fitness-and-Institutional-Hysteresis-in-IusSpace.pdf) |
