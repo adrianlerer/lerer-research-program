@@ -14,7 +14,7 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 136 Zenodo DOI records and 62 SSRN records, with all SSRN archive entries cross-referenced to their Zenodo records, and has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 136 Zenodo DOI records and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
@@ -345,9 +345,9 @@ All papers are freely downloadable. Communities: [law-as-extended-phenotype](htt
 
 ---
 
-## Papers — SSRN Archive (62 papers, PDF hosted here)
+## Papers — SSRN Historical Archive (62 papers, PDFs hosted here)
 
-> The SSRN account was suspended in January 2026 for administrative reasons (category mismatch for interdisciplinary papers), unrelated to content. All PDFs are hosted in the [`papers/`](papers/) folder of this repository. Zenodo links identify the durable Zenodo record when available.
+> The SSRN account was suspended in January 2026 for administrative reasons (category mismatch for interdisciplinary papers), unrelated to content. SSRN availability is now partial and unstable: as of 2026-07-04, the author page exposed 43 public records out of the historical 62. This table preserves the complete historical SSRN archive. All PDFs are hosted in the [`papers/`](papers/) folder of this repository, and Zenodo links identify the durable DOI record when available. For preservation and citation, use the GitHub-hosted PDF and Zenodo DOI as the authoritative sources.
 
 | SSRN ID | Title | PDF | Zenodo |
 |---------|-------|-----|--------|
