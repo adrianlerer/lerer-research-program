@@ -347,7 +347,7 @@ All papers are freely downloadable. Communities: [law-as-extended-phenotype](htt
 
 ## Papers — SSRN Historical Archive (62 papers, PDFs hosted here)
 
-> The SSRN account was suspended in January 2026 for administrative reasons (category mismatch for interdisciplinary papers), unrelated to content. SSRN availability is now partial and unstable: as of 2026-07-04, the author page exposed 43 public records out of the historical 62. This table preserves the complete historical SSRN archive. All PDFs are hosted in the [`papers/`](papers/) folder of this repository, and Zenodo links identify the durable DOI record when available. For preservation and citation, use the GitHub-hosted PDF and Zenodo DOI as the authoritative sources.
+> The SSRN account was suspended in January 2026 for administrative reasons (category mismatch for interdisciplinary papers), unrelated to content. SSRN availability is now partial and unstable: as of 2026-07-04, the author page exposed 43 public records out of the historical 62. The supporting snapshot and extracted audit are preserved in [`library/ssrn-audits/`](library/ssrn-audits/). The 19 records missing from the 2026-07-04 author-page snapshot are: 5768423, 5881663, 5881702, 5882342, 5886142, 5891884, 5908462, 5908662, 5955735, 5960677, 5971914, 5974555, 5991115, 5991195, 5991355, 5995234, 5995435, 6000675, and 6001434. This table preserves the complete historical SSRN archive. All PDFs are hosted in the [`papers/`](papers/) folder of this repository, and Zenodo links identify the durable DOI record when available. For preservation and citation, use the GitHub-hosted PDF and Zenodo DOI as the authoritative sources.
 
 | SSRN ID | Title | PDF | Zenodo |
 |---------|-------|-----|--------|

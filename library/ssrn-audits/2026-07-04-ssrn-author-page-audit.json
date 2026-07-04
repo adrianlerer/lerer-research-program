@@ -1,0 +1,451 @@
+{
+  "source_pdf": "/Users/adria1/Downloads/SSRN Author Page for Ignacio Adrian Lerer __ SSRN.pdf",
+  "source_pdf_creation_date": "2026-07-04 00:27:50 -03",
+  "ssrn_author_page_claimed_count": 43,
+  "visible_ids_extracted_count": 43,
+  "historical_repo_count": 62,
+  "missing_from_current_ssrn_author_page_count": 19,
+  "visible_ids": [
+    "5387400",
+    "5391036",
+    "5402461",
+    "5405459",
+    "5428374",
+    "5454256",
+    "5463814",
+    "5467928",
+    "5468569",
+    "5472748",
+    "5477267",
+    "5478426",
+    "5478466",
+    "5478467",
+    "5486006",
+    "5486466",
+    "5492066",
+    "5496678",
+    "5555478",
+    "5557838",
+    "5576850",
+    "5584450",
+    "5591832",
+    "5593470",
+    "5599553",
+    "5600750",
+    "5605730",
+    "5612010",
+    "5624710",
+    "5635152",
+    "5645070",
+    "5660770",
+    "5695662",
+    "5696484",
+    "5718922",
+    "5728083",
+    "5731627",
+    "5737383",
+    "5741544",
+    "5748142",
+    "5750242",
+    "5760142",
+    "5776925"
+  ],
+  "missing_ids": [
+    "5768423",
+    "5881663",
+    "5881702",
+    "5882342",
+    "5886142",
+    "5891884",
+    "5908462",
+    "5908662",
+    "5955735",
+    "5960677",
+    "5971914",
+    "5974555",
+    "5991115",
+    "5991195",
+    "5991355",
+    "5995234",
+    "5995435",
+    "6000675",
+    "6001434"
+  ],
+  "extra_visible_not_in_repo": [],
+  "missing_records": [
+    {
+      "ssrn_id": "5768423",
+      "title": "Epistemological Clergies: When Orthodoxy Becomes Institutional Selection Pressure",
+      "pdf": "papers/5768423-EPISTEMOLOGICAL-CLERGIES-WHEN-ORTHODOXY.pdf",
+      "zenodo": "10.5281/zenodo.20612925"
+    },
+    {
+      "ssrn_id": "5881663",
+      "title": "The Dawkins-Hayek Convergence: Spontaneous Order as Extended Phenotype",
+      "pdf": "papers/5881663-The-Dawkins-Hayek-Convergence-Spontaneous.pdf",
+      "zenodo": "10.5281/zenodo.18576674"
+    },
+    {
+      "ssrn_id": "5881702",
+      "title": "Against Multilevel Selection in Legal Evolution: A Defense and Restatement",
+      "pdf": "papers/5881702-Against-Multilevel-Selection-in-Legal-Evolution.pdf",
+      "zenodo": "10.5281/zenodo.20612935"
+    },
+    {
+      "ssrn_id": "5882342",
+      "title": "Archaeological Scaffolding of Law: Institutional Layers and Memetic Stratigraphy",
+      "pdf": "papers/5882342-ARCHAEOLOGICAL-SCAFFOLDING-OF-LAW.pdf",
+      "zenodo": "10.5281/zenodo.20612939"
+    },
+    {
+      "ssrn_id": "5886142",
+      "title": "Blind Breeders: The Extended Phenotype of Unintentional Institutional Design",
+      "pdf": "papers/5886142-BLIND-BREEDERS-The-Extended-Phenotype-of.pdf",
+      "zenodo": "10.5281/zenodo.20612948"
+    },
+    {
+      "ssrn_id": "5891884",
+      "title": "Law as Extended Phenotype: A Game-Theoretic Synthesis",
+      "pdf": "papers/5891884-Law-as-Extended-Phenotype-A-Game-Theoretic.pdf",
+      "zenodo": "10.5281/zenodo.20612950"
+    },
+    {
+      "ssrn_id": "5908462",
+      "title": "The Praxeological Foundations of Extended Phenotype Theory",
+      "pdf": "papers/5908462-The-Praxeological-Foundations-of-Extended.pdf",
+      "zenodo": "10.5281/zenodo.20612952"
+    },
+    {
+      "ssrn_id": "5908662",
+      "title": "Legal Prices: The Normative Calculation Problem and the Limits of Command-and-Control",
+      "pdf": "papers/5908662-Legal-Prices-The-Normative-Calculation-Problem-and.pdf",
+      "zenodo": "10.5281/zenodo.20612954"
+    },
+    {
+      "ssrn_id": "5955735",
+      "title": "The WEIRD Machine: Why Western Legal AI Fails in Non-WEIRD Jurisdictions",
+      "pdf": "papers/5955735-THE-WEIRD-MACHINE-WHY-WESTERN.pdf",
+      "zenodo": "10.5281/zenodo.20612958"
+    },
+    {
+      "ssrn_id": "5960677",
+      "title": "Game Theory's Hidden Assumption: Intentionality Homogeneity and Corporate Liability",
+      "pdf": "papers/5960677-GAME-THEORYS-HIDDEN-ASSUMPTION-Intentionality.pdf",
+      "zenodo": "10.5281/zenodo.18600364"
+    },
+    {
+      "ssrn_id": "5971914",
+      "title": "Mises's Fatal Flaw: Binding Deficits and the Memetic Evolution of Fiscal Constitutions",
+      "pdf": "papers/5971914-Misess-Fatal-Flaw-Binding-Deficits-and-the-Memetic.pdf",
+      "zenodo": "10.5281/zenodo.20612960"
+    },
+    {
+      "ssrn_id": "5974555",
+      "title": "Formal Foundations of Multilevel Game Theory: Price Equation and Replicator Dynamics",
+      "pdf": "papers/5974555-Formal-Foundations-of-Multilevel-Game-Theory.pdf",
+      "zenodo": "10.5281/zenodo.20612964"
+    },
+    {
+      "ssrn_id": "5991115",
+      "title": "Extending Aumann's Agreement Theorem to Heterogeneous Intentionality",
+      "pdf": "papers/5991115-Extending-Aumanns-Agreement-Theorem-to.pdf",
+      "zenodo": "10.5281/zenodo.20612968"
+    },
+    {
+      "ssrn_id": "5991195",
+      "title": "The Generalized Intentionality Mismatch Theorem: When Law Assumes Moral Agency That Doesn't Exist",
+      "pdf": "papers/5991195-The-Generalized-Intentionality-Mismatch-Theorem.pdf",
+      "zenodo": "10.5281/zenodo.18603169"
+    },
+    {
+      "ssrn_id": "5991355",
+      "title": "Environmental Law and the Myth of Corporate Citizenship",
+      "pdf": "papers/5991355-Environmental-Law-and-the-Myth-of-Corporate.pdf",
+      "zenodo": "10.5281/zenodo.20612972"
+    },
+    {
+      "ssrn_id": "5995234",
+      "title": "The Normative Calculation Problem Under Heterogeneous Intentionality",
+      "pdf": "papers/5995234-The-Normative-Calculation-Problem-Under.pdf",
+      "zenodo": "10.5281/zenodo.18603037"
+    },
+    {
+      "ssrn_id": "5995435",
+      "title": "Agency Problems Under Heterogeneous Intentionality",
+      "pdf": "papers/5995435-Agency-Problems-Under-Heterogeneous.pdf",
+      "zenodo": "10.5281/zenodo.20612974"
+    },
+    {
+      "ssrn_id": "6000675",
+      "title": "Evolutionarily Stable Non-Compliance: A Game-Theoretic Analysis",
+      "pdf": "papers/6000675-Evolutionarily-Stable-Non-Compliance-A-Game.pdf",
+      "zenodo": "10.5281/zenodo.18603260"
+    },
+    {
+      "ssrn_id": "6001434",
+      "title": "The Fatal Conceit of Consensus Networks: Why Decentralized Governance Fails",
+      "pdf": "papers/6001434-The-Fatal-Conceit-of-Consensus-Networks-Why.pdf",
+      "zenodo": "10.5281/zenodo.20612976"
+    }
+  ],
+  "visible_records": [
+    {
+      "ssrn_id": "5387400",
+      "title": "The Legislator as Extended Phenotype: A Darwinian Theory of Legal Evolution",
+      "pdf": "papers/5387400-The-Legislator-as-Extended-Phenotype-A-Darwinian-T.pdf",
+      "zenodo": "10.5281/zenodo.18566652"
+    },
+    {
+      "ssrn_id": "5391036",
+      "title": "Two Paths, One Evolution: Testing the Extended Phenotype Theory Across Legal Systems",
+      "pdf": "papers/5391036-Two-Paths-One-Evolution-Testing-the.pdf",
+      "zenodo": "10.5281/zenodo.18567507"
+    },
+    {
+      "ssrn_id": "5402461",
+      "title": "Law as Language: From Scandinavian Realism to Evolutionary Jurisprudence",
+      "pdf": "papers/5402461-Law-as-Language-From-Scandinavian.pdf",
+      "zenodo": "10.5281/zenodo.18576390"
+    },
+    {
+      "ssrn_id": "5405459",
+      "title": "JurisRank: Measuring Legal Phenotypic Fitness Through Citation Networks",
+      "pdf": "papers/5405459-JurisRank-Measuring-Legal-Phenotypic-Fitness-Throu.pdf",
+      "zenodo": "10.5281/zenodo.20613103"
+    },
+    {
+      "ssrn_id": "5428374",
+      "title": "Evolutionary Genealogy of Corporate Criminal Liability",
+      "pdf": "papers/5428374-Evolutionary-Genealogy-of-Corporate-Criminal-Liabi.pdf",
+      "zenodo": "10.5281/zenodo.20612819"
+    },
+    {
+      "ssrn_id": "5454256",
+      "title": "The Extended Phenotype of Artificial Intelligence",
+      "pdf": "papers/5454256-The-Extended-Phenotype-of-Artificial-Intelligence.pdf",
+      "zenodo": "10.5281/zenodo.18567734"
+    },
+    {
+      "ssrn_id": "5463814",
+      "title": "The Extended Phenotype of Populism",
+      "pdf": "papers/5463814-THE-EXTENDED-PHENOTYPE-OF-POPULISM.pdf",
+      "zenodo": "10.5281/zenodo.20612821"
+    },
+    {
+      "ssrn_id": "5467928",
+      "title": "The Peralta Metamorphosis: Quantifying the Evolution of Legal Parasitism",
+      "pdf": "papers/5467928-The-Peralta-Metamorphosis-Quantifying-the-Evolutio.pdf",
+      "zenodo": "10.5281/zenodo.20612829"
+    },
+    {
+      "ssrn_id": "5468569",
+      "title": "The Multilayer Parasite: Quantifying Corruption's Institutional Architecture",
+      "pdf": "papers/5468569-The-Multilayer-Parasite-Quantifying-Corruptions.pdf",
+      "zenodo": "10.5281/zenodo.20612833"
+    },
+    {
+      "ssrn_id": "5472748",
+      "title": "The Cuckoo's Superestimulus: A Theoretical Framework",
+      "pdf": "papers/5472748-The-Cuckoos-Superestimulus-A-Theoretical-Framework.pdf",
+      "zenodo": "10.5281/zenodo.20612835"
+    },
+    {
+      "ssrn_id": "5477267",
+      "title": "Computational Genealogies and Political Attractors",
+      "pdf": "papers/5477267-Computational-Genealogies-and-Political-Attractors.pdf",
+      "zenodo": "10.5281/zenodo.20612837"
+    },
+    {
+      "ssrn_id": "5478426",
+      "title": "Why Bad Law Persists: Evolutionarily Stable Strategies in Legal Systems",
+      "pdf": "papers/5478426-Why-Bad-Law-Persists-Evolutionary-Stable-Strategie.pdf",
+      "zenodo": "10.5281/zenodo.20612840"
+    },
+    {
+      "ssrn_id": "5478466",
+      "title": "The Altruism Paradox in Law: How Selfish Genes Create Cooperative Legal Orders",
+      "pdf": "papers/5478466-The-Altruism-Paradox-in-Law-How-Selfish-Genes-Crea.pdf",
+      "zenodo": "10.5281/zenodo.18562865"
+    },
+    {
+      "ssrn_id": "5478467",
+      "title": "The Legal DNA: How Behavioral and Evolutionary Forces Shape Legal Norms",
+      "pdf": "papers/5478467-The-Legal-DNA-How-Behavioral-and.pdf",
+      "zenodo": "10.5281/zenodo.20612842"
+    },
+    {
+      "ssrn_id": "5486006",
+      "title": "Dead Language, Living Law: Latin Legal Maxims as Perfect Memes",
+      "pdf": "papers/5486006-Dead-Language-Living-Law-Latin-Legal-Maxims-as.pdf",
+      "zenodo": "10.5281/zenodo.18556003"
+    },
+    {
+      "ssrn_id": "5486466",
+      "title": "Good Faith as Legal DNA: The Genealogical Origins of Contractual Loyalty",
+      "pdf": "papers/5486466-GOOD-FAITH-AS-LEGAL-DNA-THE-GENEALOGICAL.pdf",
+      "zenodo": "10.5281/zenodo.20612844"
+    },
+    {
+      "ssrn_id": "5492066",
+      "title": "Jurists as Evolutionary Engineers: Artificial Selection in Legal Doctrine",
+      "pdf": "papers/5492066-JURISTS-AS-EVOLUTIONARY-ENGINEERS-ARTIFICIAL.pdf",
+      "zenodo": "10.5281/zenodo.18564668"
+    },
+    {
+      "ssrn_id": "5496678",
+      "title": "The Legal Book of the Dead: Memetic Pincers and Institutional Palimpsests",
+      "pdf": "papers/5496678-The-Legal-Book-of-the-Dead-Memetic-Pincers.pdf",
+      "zenodo": "10.5281/zenodo.20612848"
+    },
+    {
+      "ssrn_id": "5555478",
+      "title": "Small Concept Models: A Specialized Framework for Legal AI",
+      "pdf": "papers/5555478-Small-Concept-Models-A-Specialized-Framework-for.pdf",
+      "zenodo": "10.5281/zenodo.20612850"
+    },
+    {
+      "ssrn_id": "5557838",
+      "title": "IusSpace: A Twelve-Dimensional Framework for Mapping Legal Concepts",
+      "pdf": "papers/5557838-IusSpace-A-Twelve-Dimensional-Framework-for-Mappin.pdf",
+      "zenodo": "10.5281/zenodo.20612852"
+    },
+    {
+      "ssrn_id": "5576850",
+      "title": "Beyond WEIRD Legal AI: Why Concept-Based Models Outperform Token-Based Approaches",
+      "pdf": "papers/5576850-Beyond-WEIRD-Legal-AI-Why-Concept-Based-Models.pdf",
+      "zenodo": "10.5281/zenodo.20612854"
+    },
+    {
+      "ssrn_id": "5584450",
+      "title": "Beyond WEIRD Bias: Why Token-Based Legal AI Cannot Model Post-Colonial Compliance",
+      "pdf": "papers/5584450-Beyond-WEIRD-Bias-Why-Token-Based-Legal-AI.pdf",
+      "zenodo": "10.5281/zenodo.18576911"
+    },
+    {
+      "ssrn_id": "5591832",
+      "title": "Normative Ambiguity as Memetic Niche Space",
+      "pdf": "papers/5591832-Normative-Ambiguity-as-Memetic-Niche-Space-An.pdf",
+      "zenodo": "10.5281/zenodo.20612858"
+    },
+    {
+      "ssrn_id": "5593470",
+      "title": "Law as Extended Phenotype: Toward an Evolutionary Theory of Legal Systems",
+      "pdf": "papers/5593470-Law-as-Extended-Phenotype-Toward-an.pdf",
+      "zenodo": "10.5281/zenodo.18567125"
+    },
+    {
+      "ssrn_id": "5599553",
+      "title": "The Extinction of the Nineteenth Amendment: A Memetic Analysis",
+      "pdf": "papers/5599553-THE-EXTINCTION-OF-THE-NINETEENTH-AMENDMENT.pdf",
+      "zenodo": "10.5281/zenodo.20612860"
+    },
+    {
+      "ssrn_id": "5600750",
+      "title": "Beyond Iusmorphs: Advanced Evolutionary Models for Legal Compatibility",
+      "pdf": "papers/5600750-Beyond-Iusmorphs-Advanced-Evolutionary-Models.pdf",
+      "zenodo": "10.5281/zenodo.20612864"
+    },
+    {
+      "ssrn_id": "5605730",
+      "title": "Beyond Iusmorphs: Environmental Compatibility and Institutional Selection",
+      "pdf": "papers/5605730-Beyond-Iusmorphs-Environmental-Compatibility.pdf",
+      "zenodo": "10.5281/zenodo.20612872"
+    },
+    {
+      "ssrn_id": "5612010",
+      "title": "International Law as Extended Phenotype: Globalist and Sovereignist Memeplexes",
+      "pdf": "papers/5612010-International-Law-as-Extended-Phenotype-Globalist.pdf",
+      "zenodo": "10.5281/zenodo.20612876"
+    },
+    {
+      "ssrn_id": "5624710",
+      "title": "Constitutional Lock-in and the Phenotypic Expression of Legal Resistance",
+      "pdf": "papers/5624710-Constitutional-Lock-in-and-the-Phenotypic.pdf",
+      "zenodo": "10.5281/zenodo.20612883"
+    },
+    {
+      "ssrn_id": "5635152",
+      "title": "Argentina's Fiscal Lock-in: Tax Reform as Extended Phenotype",
+      "pdf": "papers/5635152-Argentinas-Fiscal-Lock-in-Tax-Reform-as.pdf",
+      "zenodo": "10.5281/zenodo.18626683"
+    },
+    {
+      "ssrn_id": "5645070",
+      "title": "Climbing Mount Improbable: A Viable Path for Argentine Institutional Reform",
+      "pdf": "papers/5645070-CLIMBING-MOUNT-IMPROBABLE-A-VIABLE-PATH.pdf",
+      "zenodo": "10.5281/zenodo.20612887"
+    },
+    {
+      "ssrn_id": "5660770",
+      "title": "Constitutional Paleontology: Tracing the Evolutionary History of Legal Doctrines",
+      "pdf": "papers/5660770-CONSTITUTIONAL-PALEONTOLOGY-TRACING.pdf",
+      "zenodo": "10.5281/zenodo.20612890"
+    },
+    {
+      "ssrn_id": "5695662",
+      "title": "Before the Command Was Spoken: Law as Pre-Intentional Coordination",
+      "pdf": "papers/5695662-Before-the-Command-Was-Spoken-Law-as.pdf",
+      "zenodo": "10.5281/zenodo.20612892"
+    },
+    {
+      "ssrn_id": "5696484",
+      "title": "The Grundnorm as Evolutionary Attractor",
+      "pdf": "papers/5696484-The-Grundnorm-as-Evolutionary.pdf",
+      "zenodo": "10.5281/zenodo.20612900"
+    },
+    {
+      "ssrn_id": "5718922",
+      "title": "Cognitive Mechanisms of Constitutional Entrenchment",
+      "pdf": "papers/5718922-COGNITIVE-MECHANISMS-OF-CONSTITUTIONAL.pdf",
+      "zenodo": "10.5281/zenodo.20612904"
+    },
+    {
+      "ssrn_id": "5728083",
+      "title": "The Golden Ratio Paradox: Why Optimal Institutional Design May Be Evolutionarily Unstable",
+      "pdf": "papers/5728083-The-Golden-Ratio-Paradox-Why-Optimal-Institutional.pdf",
+      "zenodo": "10.5281/zenodo.20612906"
+    },
+    {
+      "ssrn_id": "5731627",
+      "title": "From Utopianism to Fossilization: The Evolutionary Pathology of Ideal Constitutions",
+      "pdf": "papers/5731627-FROM-UTOPIANISM-TO-FOSSILIZATION-A.pdf",
+      "zenodo": "10.5281/zenodo.20612910"
+    },
+    {
+      "ssrn_id": "5737383",
+      "title": "Law as Extended Phenotype: Reframing Legal Theory Through Evolutionary Epistemology",
+      "pdf": "papers/5737383-LAW-AS-EXTENDED-PHENOTYPE-REFRAMING.pdf",
+      "zenodo": "10.5281/zenodo.18626632"
+    },
+    {
+      "ssrn_id": "5741544",
+      "title": "If Machiavelli Had Known Darwin: Evolutionary Power and Institutional Design",
+      "pdf": "papers/5741544-IF-MACHIAVELLI-HAD-KNOWN-DARWIN-EVOLUTIONARY.pdf",
+      "zenodo": "10.5281/zenodo.20612914"
+    },
+    {
+      "ssrn_id": "5748142",
+      "title": "Uruguay and the Fossilization Meme: Testing EPT Against a Positive Case",
+      "pdf": "papers/5748142-Uruguay-and-the-Fossilization-Meme-Testing.pdf",
+      "zenodo": "10.5281/zenodo.20612916"
+    },
+    {
+      "ssrn_id": "5750242",
+      "title": "From Transaction Costs to Memetic Fitness: Formalizing North's Institutional Insights",
+      "pdf": "papers/5750242-FROM-TRANSACTION-COSTS-TO-MEMETIC-FITNESS.pdf",
+      "zenodo": "10.5281/zenodo.18626473"
+    },
+    {
+      "ssrn_id": "5760142",
+      "title": "Beyond Stated Preferences: Tacit Consensus as Cultural Lock-in",
+      "pdf": "papers/5760142-Beyond-Stated-Preferences-Tacit-Consensus-as-Cultu.pdf",
+      "zenodo": "10.5281/zenodo.20612923"
+    },
+    {
+      "ssrn_id": "5776925",
+      "title": "\"General Welfare\" and \"Common Good\" as Evolutionary Attractors in Constitutional Law",
+      "pdf": "papers/5776925-General-Welfare-and-Common-Good-as-Evolutionary.pdf",
+      "zenodo": "10.5281/zenodo.20612927"
+    }
+  ]
+}
