@@ -2,6 +2,10 @@
 
 Biblioteca de papers externos analizados en relación al programa de investigación EPT/EGT.
 
+## Strategy and Internal Roadmaps
+
+- [`strategy/2026-07-05-fable-roadmap-future-paper-standards.md`](strategy/2026-07-05-fable-roadmap-future-paper-standards.md): operational checklist for future EPT/EGT papers, Zenodo uploads, and book chapters, derived from the Fable Roadmap 2026-2028.
+
 ## Estructura de cada entrada
 
 Cada archivo `YYYY-MM_autor_titulo-corto.md` contiene:
