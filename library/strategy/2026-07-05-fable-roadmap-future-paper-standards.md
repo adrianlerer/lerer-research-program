@@ -1,8 +1,26 @@
 # Future Paper Standards from Fable Roadmap 2026-2028
 
 Date: 2026-07-05
-Source: Fable roadmap for the EPT/EGT programme, dated 2026-07-05.
+Source: Fable roadmap for the EPT/EGT programme, dated 2026-07-05. The user later clarified that the Fable session was answered by Claude Opus 4.8 through Fable's safeguard routing. NotebookLM was not directly queried in that session because the local MCP server timed out.
 Purpose: operational checklist for future papers, preprints, Zenodo uploads, and book chapters.
+
+## Immediate Decisions to Preserve
+
+1. The dominant risk is validation asymmetry.
+   - CLI and HBU can be described as data-validated where the paper cites the relevant evidence.
+   - IHR, IEI, AIT/GIMT, PSO, DCF, SMD, LSE, holonomy, and TCI must not be described as equally validated unless the new paper supplies evidence.
+   - Treat multipaís expansion as out-of-sample validation, not merely additional coverage.
+
+2. Two hygiene decisions should be made before multipaís replication.
+   - Fix the canonical CLI formula and explain any older four-component formulation as prior, alternate, or deprecated.
+   - Resolve the latent TCI/CLI confusion: if TCI was once described as renamed from CLI 4.0, correct that language so TCI is treated as a distinct construct unless a paper expressly argues otherwise.
+
+3. The highest-value bridge paper is AI as niche constructor of the legal memepool.
+   - This is the preferred bridge between the institutional programme and the AI/alignment programme.
+   - Write it in conceptual pair with Law as Constructed Niche when feasible.
+
+4. The strongest rival-programme challenge is cultural attraction theory.
+   - The response to develop is that law, because of canonical texts, professional transmission, citation practice, and formal writing, is an unusually strong domain for high-fidelity memetic replication.
 
 ## Mandatory Preflight for Future Papers
 
