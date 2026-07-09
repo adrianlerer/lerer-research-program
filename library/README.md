@@ -5,6 +5,7 @@ Biblioteca de papers externos analizados en relación al programa de investigaci
 ## Strategy and Internal Roadmaps
 
 - [`strategy/2026-07-05-fable-roadmap-future-paper-standards.md`](strategy/2026-07-05-fable-roadmap-future-paper-standards.md): operational checklist for future EPT/EGT papers, Zenodo uploads, and book chapters, derived from the Fable Roadmap 2026-2028.
+- [`strategy/2026-07-09-pat-inspired-claude-perplexity-prompts.md`](strategy/2026-07-09-pat-inspired-claude-perplexity-prompts.md): PAT-inspired prompts for using Claude as deep manuscript reviewer and Perplexity as grounding/literature checker.
 
 ## Estructura de cada entrada
 
