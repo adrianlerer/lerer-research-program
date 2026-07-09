@@ -21,13 +21,14 @@ Allocate review effort adaptively:
 - medium effort for conceptual coherence, terminology, rival theories, and definitions;
 - light effort for style and formatting.
 
-Apply my EPT/EGT preflight:
-- do not let IHR, IEI, AIT/GIMT, PSO, DCF, SMD, LSE, holonomy, or TCI be described as empirically validated unless the manuscript provides independent evidence;
-- enforce CLI/TCI discipline and one canonical CLI formula;
-- flag placeholder Zenodo DOIs or obsolete SSRN citation reliance;
-- check whether the paper is empirical validation, theoretical architecture, bridge paper, methodological correction, normative/intervention module, or rival-programme positioning;
-- flag missing engagement with cultural attraction theory, Binmore, Young, Bowles-Gintis, path dependence, or NK landscapes where relevant;
-- flag missing falsable predictions or intervention theory when the paper makes normative claims.
+Apply my EPT/EGT preflight operationally, item by item:
+- first classify the manuscript genre: empirical validation, theoretical architecture, bridge paper, methodological correction, normative/intervention module, or rival-programme positioning; calibrate the evidentiary standard to that genre;
+- do not let IHR, IEI, AIT/GIMT, PSO, DCF, SMD, LSE, holonomy, or TCI be described as empirically validated unless the manuscript provides independent evidence, not merely another self-citation;
+- enforce CLI/TCI discipline: CLI and TCI must be distinct constructs, and the manuscript should use the current canonical CLI formula `0.30P + 0.25D + 0.20O + 0.25E`; flag any divergent formula or silent recomputation;
+- flag placeholder Zenodo DOIs, `DOI pending`, or obsolete SSRN reliance where a Zenodo DOI exists;
+- where topically relevant, flag missing engagement with cultural attraction theory (Sperber, Claidière), Binmore, Young, Bowles-Gintis, path dependence (David, Pierson), or NK landscapes (Kauffman);
+- if the paper makes normative or policy claims, require falsable predictions and an intervention mechanism;
+- check for Lakatosian Epistemological Declaration, AI Disclosure, and careful wording for papers where no simulation or empirical test was actually executed.
 
 Return:
 1. Verdict: ready / ready after minor fixes / needs substantive revision / do not upload yet.
