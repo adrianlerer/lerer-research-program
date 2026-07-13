@@ -6,6 +6,7 @@ Biblioteca de papers externos analizados en relación al programa de investigaci
 
 - [`strategy/2026-07-05-fable-roadmap-future-paper-standards.md`](strategy/2026-07-05-fable-roadmap-future-paper-standards.md): operational checklist for future EPT/EGT papers, Zenodo uploads, and book chapters, derived from the Fable Roadmap 2026-2028.
 - [`strategy/2026-07-09-pat-inspired-claude-perplexity-prompts.md`](strategy/2026-07-09-pat-inspired-claude-perplexity-prompts.md): PAT-inspired prompts for using Claude as deep manuscript reviewer and Perplexity as grounding/literature checker.
+- [`strategy/2026-07-13-research-taste-claude-perplexity-prompts.md`](strategy/2026-07-13-research-taste-claude-perplexity-prompts.md): prompts for detecting bridge/synthesis default risk and generating more diverse paper architectures.
 
 ## Estructura de cada entrada
 
@@ -22,7 +23,7 @@ Cada archivo `YYYY-MM_autor_titulo-corto.md` contiene:
 
 `EPT` `EGT` `multilevel` `intentionality` `JurisRank` `IusSpace` `SCM` `memetics`  
 `AI-agents` `AI-skills` `LLM` `legal-practice` `game-theory` `evolutionary`  
-`constitutional` `comparative-law` `compliance`
+`constitutional` `comparative-law` `compliance` `research-ideation` `creativity`
 
 ## Relevancia
 
