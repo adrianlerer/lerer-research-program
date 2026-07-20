@@ -14,7 +14,7 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 136 Zenodo DOI records and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 137 Zenodo DOI records and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
@@ -200,12 +200,13 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (136 DOI records, open access)
+## Papers — Zenodo (137 DOI records, open access)
 
 All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-07-20 | The Captured Renewer Problem: Tenure-Contingent Constraints on Extraordinary Executive Powers, from the Roman Dictatorship to Article 29 of the Argentine Constitution | [10.5281/zenodo.21456952](https://doi.org/10.5281/zenodo.21456952) · [PDF](papers/21456952-The-Captured-Renewer-Problem-Tenure-Contingent-Constraints-on-Extraordinary-Executive-Powers.pdf) |
 | 2026-07-03 | Documentary Inertia vs. Evolutionary Fitness: What Talkie-1930 Reveals About the Validity Limits of Memetic Persistence Indices | [10.5281/zenodo.21172156](https://doi.org/10.5281/zenodo.21172156) · [PDF](papers/21172156-Talkie-1930-Documentary-Inertia-vs-Evolutionary-Fitness.pdf) |
 | 2026-07-03 | Sub-Propositional Affiliation Signals as Alignment Vectors: An Extended Phenotype Account of Kinship Vocatives, Sycophancy, and the Limits of Content-Level AI Safety | [10.5281/zenodo.21166093](https://doi.org/10.5281/zenodo.21166093) · [PDF](papers/21166093-Sub-Propositional-Affiliation-Signals-as-Alignment-Vectors.pdf) |
 | 2026-07-01 | Static Permissibility in Dynamic Normative Environments: Dynamic Classification Failure as a Structural Property of Institutional Computation | [10.5281/zenodo.21120096](https://doi.org/10.5281/zenodo.21120096) · [PDF](papers/21120096-Static-Permissibility-in-Dynamic-Normative-Environments-Dynamic-Classification-Failure-as-a-Structural-Property-of-Institutional-Computation.pdf) |
