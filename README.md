@@ -206,7 +206,7 @@ All papers are freely downloadable. Communities: [law-as-extended-phenotype](htt
 
 | Date | Title | DOI |
 |------|-------|-----|
-| 2026-07-26 | The Invariant Core: Why Dworkin's Right-Answer Doctrine Functions as an Equilibrium Selector, and Why the Invariant Is Not Trivial | [10.5281/zenodo.21613350](https://doi.org/10.5281/zenodo.21613350) · [PDF](papers/21613350-The-Invariant-Core-Dworkin-Right-Answer-Doctrine-Equilibrium-Selector.pdf) |
+| 2026-07-26 | The Invariant Core: Why Dworkin's Right-Answer Doctrine Functions as an Equilibrium Selector, and Why the Invariant Is Not Trivial | [10.5281/zenodo.21614413](https://doi.org/10.5281/zenodo.21614413) · [PDF](papers/21614413-The-Invariant-Core-Dworkin-Right-Answer-Doctrine-Equilibrium-Selector-v2.pdf) |
 | 2026-07-25 | Transaction Costs, Extended Phenotype, and Liability for Artificial Intelligence: A Common Conceptual Framework | [10.5281/zenodo.21562785](https://doi.org/10.5281/zenodo.21562785) · [PDF](papers/21562785-Transaction-Costs-Extended-Phenotype-and-Liability-for-Artificial-Intelligence.pdf) |
 | 2026-07-20 | The Captured Renewer Problem: Tenure-Contingent Constraints on Extraordinary Executive Powers, from the Roman Dictatorship to Article 29 of the Argentine Constitution | [10.5281/zenodo.21459029](https://doi.org/10.5281/zenodo.21459029) · [PDF](papers/21459029-The-Captured-Renewer-Problem-Tenure-Contingent-Constraints-on-Extraordinary-Executive-Powers-v0.2.pdf) |
 | 2026-07-03 | Documentary Inertia vs. Evolutionary Fitness: What Talkie-1930 Reveals About the Validity Limits of Memetic Persistence Indices | [10.5281/zenodo.21172156](https://doi.org/10.5281/zenodo.21172156) · [PDF](papers/21172156-Talkie-1930-Documentary-Inertia-vs-Evolutionary-Fitness.pdf) |
