@@ -14,7 +14,7 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 139 Zenodo DOI records and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 140 Zenodo DOI records and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
@@ -200,12 +200,13 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (139 DOI records, open access)
+## Papers — Zenodo (140 DOI records, open access)
 
 All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-07-30 | Concentration Without Reception: How Blank Resignations Reproduce the Suma del Poder Público That Article 29 of the Argentine Constitution Cannot Reach | [10.5281/zenodo.21711303](https://doi.org/10.5281/zenodo.21711303) · [PDF](papers/21711303-Concentration-Without-Reception-Blank-Resignations-Article-29.pdf) |
 | 2026-07-26 | The Invariant Core: Why Dworkin's Right-Answer Doctrine Functions as an Equilibrium Selector, and Why the Invariant Is Not Trivial | [10.5281/zenodo.21614413](https://doi.org/10.5281/zenodo.21614413) · [PDF](papers/21614413-The-Invariant-Core-Dworkin-Right-Answer-Doctrine-Equilibrium-Selector-v2.pdf) |
 | 2026-07-25 | Transaction Costs, Extended Phenotype, and Liability for Artificial Intelligence: A Common Conceptual Framework | [10.5281/zenodo.21562785](https://doi.org/10.5281/zenodo.21562785) · [PDF](papers/21562785-Transaction-Costs-Extended-Phenotype-and-Liability-for-Artificial-Intelligence.pdf) |
 | 2026-07-20 | The Captured Renewer Problem: Tenure-Contingent Constraints on Extraordinary Executive Powers, from the Roman Dictatorship to Article 29 of the Argentine Constitution | [10.5281/zenodo.21459029](https://doi.org/10.5281/zenodo.21459029) · [PDF](papers/21459029-The-Captured-Renewer-Problem-Tenure-Contingent-Constraints-on-Extraordinary-Executive-Powers-v0.2.pdf) |
