@@ -200,16 +200,17 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (141 DOI records, open access)
+## Papers — Zenodo (143 DOI records, open access)
 
 All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-08-04 | The Burden Shift Is Not Enough: Rebuttal Technology and Deterrence in Artificial Intelligence Liability | [10.5281/zenodo.21798615](https://doi.org/10.5281/zenodo.21798615) · [PDF](papers/21798615-The-Burden-Shift-Is-Not-Enough-Rebuttal-Technology-and-Deterrence-in-AI-Liability.pdf) · [Code](papers/21798615-ai-liability-burden-shift-companion-scripts.zip) |
 | 2026-07-30 | A Novel Fact for Concentration by Subtraction: The San Luis Blank-Resignation Convictions and a Broader Reading of Article 22 bis | [10.5281/zenodo.21712440](https://doi.org/10.5281/zenodo.21712440) · [PDF](papers/21712440-San-Luis-Novel-Fact-Article-22-bis.pdf) |
 | 2026-07-30 | Concentration Without Reception: How Blank Resignations Reproduce the Suma del Poder Público That Article 29 of the Argentine Constitution Cannot Reach | [10.5281/zenodo.21711303](https://doi.org/10.5281/zenodo.21711303) · [PDF](papers/21711303-Concentration-Without-Reception-Blank-Resignations-Article-29.pdf) |
 | 2026-07-26 | The Invariant Core: Why Dworkin's Right-Answer Doctrine Functions as an Equilibrium Selector, and Why the Invariant Is Not Trivial | [10.5281/zenodo.21614413](https://doi.org/10.5281/zenodo.21614413) · [PDF](papers/21614413-The-Invariant-Core-Dworkin-Right-Answer-Doctrine-Equilibrium-Selector-v2.pdf) |
-| 2026-07-25 | Transaction Costs, Extended Phenotype, and Liability for Artificial Intelligence: A Common Conceptual Framework | [10.5281/zenodo.21562785](https://doi.org/10.5281/zenodo.21562785) · [PDF](papers/21562785-Transaction-Costs-Extended-Phenotype-and-Liability-for-Artificial-Intelligence.pdf) |
+| 2026-07-25 | Transaction Costs, Extended Phenotype, and Liability for Artificial Intelligence: A Common Conceptual Framework | [10.5281/zenodo.21798622](https://doi.org/10.5281/zenodo.21798622) · [PDF](papers/21798622-Transaction-Costs-Extended-Phenotype-and-Liability-for-Artificial-Intelligence-v2.pdf) |
 | 2026-07-20 | The Captured Renewer Problem: Tenure-Contingent Constraints on Extraordinary Executive Powers, from the Roman Dictatorship to Article 29 of the Argentine Constitution | [10.5281/zenodo.21459029](https://doi.org/10.5281/zenodo.21459029) · [PDF](papers/21459029-The-Captured-Renewer-Problem-Tenure-Contingent-Constraints-on-Extraordinary-Executive-Powers-v0.2.pdf) |
 | 2026-07-03 | Documentary Inertia vs. Evolutionary Fitness: What Talkie-1930 Reveals About the Validity Limits of Memetic Persistence Indices | [10.5281/zenodo.21172156](https://doi.org/10.5281/zenodo.21172156) · [PDF](papers/21172156-Talkie-1930-Documentary-Inertia-vs-Evolutionary-Fitness.pdf) |
 | 2026-07-03 | Sub-Propositional Affiliation Signals as Alignment Vectors: An Extended Phenotype Account of Kinship Vocatives, Sycophancy, and the Limits of Content-Level AI Safety | [10.5281/zenodo.21166093](https://doi.org/10.5281/zenodo.21166093) · [PDF](papers/21166093-Sub-Propositional-Affiliation-Signals-as-Alignment-Vectors.pdf) |
