@@ -206,7 +206,7 @@ All papers are freely downloadable. Communities: [law-as-extended-phenotype](htt
 
 | Date | Title | DOI |
 |------|-------|-----|
-| 2026-08-07 | Channel Opacity and the Survival of Legal Change: Why Reform Endures Where No One Reads It in Argentina's Rural Land Regime, 2011-2026 | [10.5281/zenodo.21842492](https://doi.org/10.5281/zenodo.21842492) · [PDF](papers/21842492-Channel-Opacity-and-the-Survival-of-Legal-Change-v1.5.pdf) |
+| 2026-08-07 | Channel Opacity and the Survival of Legal Change: Why Reform Endures Where No One Reads It in Argentina's Rural Land Regime, 2011-2026 | [10.5281/zenodo.21842757](https://doi.org/10.5281/zenodo.21842757) · [PDF](papers/21842757-Channel-Opacity-and-the-Survival-of-Legal-Change-v1.6.pdf) |
 | 2026-08-04 | The Burden Shift Is Not Enough: Rebuttal Technology and Deterrence in Artificial Intelligence Liability | [10.5281/zenodo.21798615](https://doi.org/10.5281/zenodo.21798615) · [PDF](papers/21798615-The-Burden-Shift-Is-Not-Enough-Rebuttal-Technology-and-Deterrence-in-AI-Liability.pdf) · [Code](papers/21798615-ai-liability-burden-shift-companion-scripts.zip) |
 | 2026-07-30 | A Novel Fact for Concentration by Subtraction: The San Luis Blank-Resignation Convictions and a Broader Reading of Article 22 bis | [10.5281/zenodo.21712440](https://doi.org/10.5281/zenodo.21712440) · [PDF](papers/21712440-San-Luis-Novel-Fact-Article-22-bis.pdf) |
 | 2026-07-30 | Concentration Without Reception: How Blank Resignations Reproduce the Suma del Poder Público That Article 29 of the Argentine Constitution Cannot Reach | [10.5281/zenodo.21711303](https://doi.org/10.5281/zenodo.21711303) · [PDF](papers/21711303-Concentration-Without-Reception-Blank-Resignations-Article-29.pdf) |
