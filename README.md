@@ -14,7 +14,7 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 143 Zenodo DOI records and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 144 Zenodo DOI records and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
@@ -200,12 +200,13 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (143 DOI records, open access)
+## Papers — Zenodo (144 DOI records, open access)
 
 All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-08-09 | The Missing Action: A Variational Foundation for Normative Field Theory: Euler-Lagrange Dynamics, Gauge Transport, and Dissipative Constitutional Lock-in in IusSpace | [10.5281/zenodo.21861315](https://doi.org/10.5281/zenodo.21861315) · [PDF](papers/21861315-The-Missing-Action-Variational-Foundation-for-Normative-Field-Theory.pdf) · [Code and symbolic audit](papers/21861315-The-Missing-Action-SymPy-Audit.zip) |
 | 2026-08-07 | Channel Opacity and the Survival of Legal Change: Why Reform Endures Where No One Reads It in Argentina's Rural Land Regime, 2011-2026 | [10.5281/zenodo.21842757](https://doi.org/10.5281/zenodo.21842757) · [PDF](papers/21842757-Channel-Opacity-and-the-Survival-of-Legal-Change-v1.6.pdf) |
 | 2026-08-04 | The Burden Shift Is Not Enough: Rebuttal Technology and Deterrence in Artificial Intelligence Liability | [10.5281/zenodo.21798615](https://doi.org/10.5281/zenodo.21798615) · [PDF](papers/21798615-The-Burden-Shift-Is-Not-Enough-Rebuttal-Technology-and-Deterrence-in-AI-Liability.pdf) · [Code](papers/21798615-ai-liability-burden-shift-companion-scripts.zip) |
 | 2026-07-30 | A Novel Fact for Concentration by Subtraction: The San Luis Blank-Resignation Convictions and a Broader Reading of Article 22 bis | [10.5281/zenodo.21712440](https://doi.org/10.5281/zenodo.21712440) · [PDF](papers/21712440-San-Luis-Novel-Fact-Article-22-bis.pdf) |
