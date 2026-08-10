@@ -200,12 +200,13 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (144 DOI records, open access)
+## Papers — Zenodo (150 DOI records, open access)
 
 All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-08-10 | The Model Need Not Feel: Affective Counterfactual Divergence in Legal AI Decision Support | [10.5281/zenodo.21876122](https://doi.org/10.5281/zenodo.21876122) · [PDF](papers/21876122-The-Model-Need-Not-Feel-Affective-Counterfactual-Divergence-in-Legal-AI-Decision-Support.pdf) |
 | 2026-08-09 | The Missing Action: A Variational Foundation for Normative Field Theory: Euler-Lagrange Dynamics, Gauge Transport, and Dissipative Constitutional Lock-in in IusSpace | [10.5281/zenodo.21861315](https://doi.org/10.5281/zenodo.21861315) · [PDF](papers/21861315-The-Missing-Action-Variational-Foundation-for-Normative-Field-Theory.pdf) · [Code and symbolic audit](papers/21861315-The-Missing-Action-SymPy-Audit.zip) |
 | 2026-08-07 | Channel Opacity and the Survival of Legal Change: Why Reform Endures Where No One Reads It in Argentina's Rural Land Regime, 2011-2026 | [10.5281/zenodo.21842757](https://doi.org/10.5281/zenodo.21842757) · [PDF](papers/21842757-Channel-Opacity-and-the-Survival-of-Legal-Change-v1.6.pdf) |
 | 2026-08-04 | The Burden Shift Is Not Enough: Rebuttal Technology and Deterrence in Artificial Intelligence Liability | [10.5281/zenodo.21798615](https://doi.org/10.5281/zenodo.21798615) · [PDF](papers/21798615-The-Burden-Shift-Is-Not-Enough-Rebuttal-Technology-and-Deterrence-in-AI-Liability.pdf) · [Code](papers/21798615-ai-liability-burden-shift-companion-scripts.zip) |
