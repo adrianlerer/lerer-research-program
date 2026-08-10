@@ -14,7 +14,7 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 144 Zenodo DOI records and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 151 Zenodo DOI records and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
@@ -200,12 +200,13 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (150 DOI records, open access)
+## Papers — Zenodo (151 DOI records, open access)
 
 All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-08-10 | From Synthetic Populations to Pre-Legislative Evidence: A Gated Sim-to-Real Protocol for Regulatory Stress Testing in Argentina | [10.5281/zenodo.21876359](https://doi.org/10.5281/zenodo.21876359) · [PDF](papers/21876359-From-Synthetic-Populations-to-Pre-Legislative-Evidence.pdf) |
 | 2026-08-10 | The Model Need Not Feel: Affective Counterfactual Divergence in Legal AI Decision Support | [10.5281/zenodo.21876122](https://doi.org/10.5281/zenodo.21876122) · [PDF](papers/21876122-The-Model-Need-Not-Feel-Affective-Counterfactual-Divergence-in-Legal-AI-Decision-Support.pdf) |
 | 2026-08-09 | The Missing Action: A Variational Foundation for Normative Field Theory: Euler-Lagrange Dynamics, Gauge Transport, and Dissipative Constitutional Lock-in in IusSpace | [10.5281/zenodo.21861315](https://doi.org/10.5281/zenodo.21861315) · [PDF](papers/21861315-The-Missing-Action-Variational-Foundation-for-Normative-Field-Theory.pdf) · [Code and symbolic audit](papers/21861315-The-Missing-Action-SymPy-Audit.zip) |
 | 2026-08-07 | Channel Opacity and the Survival of Legal Change: Why Reform Endures Where No One Reads It in Argentina's Rural Land Regime, 2011-2026 | [10.5281/zenodo.21842757](https://doi.org/10.5281/zenodo.21842757) · [PDF](papers/21842757-Channel-Opacity-and-the-Survival-of-Legal-Change-v1.6.pdf) |
