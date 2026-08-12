@@ -200,9 +200,11 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (154 DOI records, open access)
+## Papers — Zenodo (154 hosted records, open access)
 
-All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
+All papers are freely downloadable. The inventory contains 149 records with a native Zenodo DOI and 5 records hosted by Zenodo under an external DOI. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
+
+### Native Zenodo DOI records (149)
 
 | Date | Title | DOI |
 |------|-------|-----|
@@ -355,6 +357,20 @@ All papers are freely downloadable. Communities: [law-as-extended-phenotype](htt
 | 2026-02-09 | Jurists as Evolutionary Engineers: Artificial Selection in Legal Doctrine | [10.5281/zenodo.18564668](https://doi.org/10.5281/zenodo.18564668) · [PDF](papers/18564668-Jurists-as-Evolutionary-Engineers-Artificial-Selection-in-Legal-Doctrine.pdf) |
 | 2026-02-09 | The Altruism Paradox in Law: How Selfish Genes Create Cooperative Legal Orders | [10.5281/zenodo.18562865](https://doi.org/10.5281/zenodo.18562865) · [PDF](papers/18562865-The-Altruism-Paradox-in-Law-How-Selfish-Genes-Create-Cooperative-Legal-Orders.pdf) |
 | 2026-02-09 | Dead Language, Living Law: Latin Legal Maxims as Perfect Memes | [10.5281/zenodo.18556003](https://doi.org/10.5281/zenodo.18556003) · [PDF](papers/18556003-Dead-Language-Living-Law-Latin-Legal-Maxims-as-Perfect-Memes.pdf) |
+
+### Zenodo-hosted records with external DOI (5)
+
+These records are part of the public Zenodo inventory even though their DOI was assigned by another registry. The two SSRN imports duplicate works already represented above by a native Zenodo DOI; they are retained here for a complete record-level audit and are not counted as additional works.
+
+After each Zenodo upload, run `python3 tools/audit_zenodo_inventory.py`. The audit exits with a non-zero status if a live record is absent from this README, a listed record disappears from Zenodo, or a linked repository file is missing.
+
+| Date | Title | External DOI | Zenodo record | Repository copy | Reconciliation |
+|------|-------|--------------|---------------|-----------------|----------------|
+| 2026-04-08 | Computational Detection of Constitutional Drift: Network Analysis and Semantic Measurement of Argentine Supreme Court Jurisprudence (1922–2025) | [10.47852/bonviewJCLLT62027951](https://doi.org/10.47852/bonviewJCLLT62027951) | [19464258](https://zenodo.org/records/19464258) | [PDF](papers/19464258-Computational-Detection-of-Constitutional-Drift-JCLLT.pdf) | Published journal article; unique work |
+| 2026-03-07 | Criptoius: Technical and Philosophical Foundations. A Blockchain-Based Decentralized Legal Precedent System | [10.13140/RG.2.2.16378.56000](https://doi.org/10.13140/RG.2.2.16378.56000) | [18903854](https://zenodo.org/records/18903854) | [PDF](papers/18903854-Criptoius-Technical-and-Philosophical-Foundations.pdf) | Unique work; ResearchGate DOI |
+| 2026-03-07 | Criptoius: A Global Evolutionary Legal System Through Blockchain | [10.13140/RG.2.2.26444.88965](https://doi.org/10.13140/RG.2.2.26444.88965) | [18903814](https://zenodo.org/records/18903814) | [PDF](papers/18903814-Criptoius-A-Global-Evolutionary-Legal-System-Through-Blockchain.pdf) | Unique work; ResearchGate DOI |
+| 2025-10-09 | Why Token-Based Legal AI Cannot Model Post-Colonial Compliance Dynamics | [10.2139/ssrn.5584450](https://doi.org/10.2139/ssrn.5584450) | [19373185](https://zenodo.org/records/19373185) | [PDF](papers/5584450-Beyond-WEIRD-Bias-Why-Token-Based-Legal-AI.pdf) | Imported duplicate of [10.5281/zenodo.18576911](https://doi.org/10.5281/zenodo.18576911) |
+| 2025-08-15 | JurisRank: Measuring Legal Phenotypic Fitness Through Citation Networks: A Darwinian Approach to Legal Evolution with Dual Methodological Validation | [10.2139/ssrn.5405459](https://doi.org/10.2139/ssrn.5405459) | [18903997](https://zenodo.org/records/18903997) | [PDF](papers/5405459-JurisRank-Measuring-Legal-Phenotypic-Fitness-Throu.pdf) | Imported duplicate of [10.5281/zenodo.20613103](https://doi.org/10.5281/zenodo.20613103) |
 
 ---
 
