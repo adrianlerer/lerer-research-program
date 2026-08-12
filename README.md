@@ -200,12 +200,13 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (153 DOI records, open access)
+## Papers — Zenodo (154 DOI records, open access)
 
 All papers are freely downloadable. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-08-11 | When Form Outlives State: Distinguishing Extended Phenotypic Expression from Zombie Outputs in Large Language Models | [10.5281/zenodo.21896543](https://doi.org/10.5281/zenodo.21896543) · [PDF](papers/21896543-When-Form-Outlives-State.pdf) |
 | 2026-08-11 | From Internal Readouts to Governed Legal Reliability: Causal Intervention, Cross-Model Replication, and Harness Ablation under Affiliation Pressure | [10.5281/zenodo.21895055](https://doi.org/10.5281/zenodo.21895055) · [PDF](papers/21895055-From-Internal-Readouts-to-Governed-Legal-Reliability.pdf) · [Public experiment repository](https://github.com/adrianlerer/jacobian-lens) |
 | 2026-08-10 | Affiliation Framing in the Jacobian Lens: A Two-Model Pilot of Internal Readout Sensitivity and Its Limits | [10.5281/zenodo.21879202](https://doi.org/10.5281/zenodo.21879202) · [PDF](papers/21879202-Affiliation-Framing-in-the-Jacobian-Lens.pdf) · [Code and reproducibility bundle](papers/21879202-SPAS-Jacobian-Lens-Experiment.zip) · [Public experiment repository](https://github.com/adrianlerer/jacobian-lens) |
 | 2026-08-10 | From Synthetic Populations to Pre-Legislative Evidence: A Gated Sim-to-Real Protocol for Regulatory Stress Testing in Argentina | [10.5281/zenodo.21876359](https://doi.org/10.5281/zenodo.21876359) · [PDF](papers/21876359-From-Synthetic-Populations-to-Pre-Legislative-Evidence.pdf) |
