@@ -14,7 +14,7 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 153 distinct works preserved in Zenodo and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 154 distinct works preserved in Zenodo and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
@@ -200,14 +200,15 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (154 hosted records, open access)
+## Papers — Zenodo (156 hosted records, open access)
 
-All papers are freely downloadable. The inventory contains 150 records with a native Zenodo DOI and 5 records hosted by Zenodo under an external DOI. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
+All papers are freely downloadable. The inventory contains 151 records with a native Zenodo DOI and 5 records hosted by Zenodo under an external DOI. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
-### Native Zenodo DOI records (150)
+### Native Zenodo DOI records (151)
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-08-14 | The File Is the Phenotype: Extended Memory, Competing Fitness Functions, and the Limits of the Mind-Virus Metaphor in Multi-Agent LLM Systems | [10.5281/zenodo.21927445](https://doi.org/10.5281/zenodo.21927445) · [PDF](papers/21927445-The-File-Is-the-Phenotype-Lerer-2026.pdf) |
 | 2026-08-13 | Cryptographic Validity Is Not Runtime Admissibility: Opaque Reasoning Traces, Dynamic Classification Failure, and a Synthetic Policy-Conformance Benchmark | [10.5281/zenodo.21927142](https://doi.org/10.5281/zenodo.21927142) · [PDF](papers/21927142-Cryptographic-Validity-Is-Not-Runtime-Admissibility-Lerer-2026.pdf) · [Code and reproducibility bundle](papers/21927142-CRAG-synthetic-replication-package-v1.0.zip) |
 | 2026-08-11 | When Form Outlives State: Distinguishing Extended Phenotypic Expression from Zombie Outputs in Large Language Models | [10.5281/zenodo.21896543](https://doi.org/10.5281/zenodo.21896543) · [PDF](papers/21896543-When-Form-Outlives-State.pdf) |
 | 2026-08-11 | From Internal Readouts to Governed Legal Reliability: Causal Intervention, Cross-Model Replication, and Harness Ablation under Affiliation Pressure | [10.5281/zenodo.21895055](https://doi.org/10.5281/zenodo.21895055) · [PDF](papers/21895055-From-Internal-Readouts-to-Governed-Legal-Reliability.pdf) · [Public experiment repository](https://github.com/adrianlerer/jacobian-lens) |
