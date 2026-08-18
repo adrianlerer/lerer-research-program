@@ -208,7 +208,7 @@ All papers are freely downloadable. The inventory contains 152 records with a na
 
 | Date | Title | DOI |
 |------|-------|-----|
-| 2026-08-17 | When Legal Grounds Expire: Warrant Withdrawal, Dependency Cascades, and Living Normative Memory in CriptoIUS | [10.5281/zenodo.21984490](https://doi.org/10.5281/zenodo.21984490) · [PDF](papers/21984490-When-Legal-Grounds-Expire-Lerer-2026.pdf) |
+| 2026-08-17 | When Legal Grounds Expire: Warrant Withdrawal, Dependency Cascades, and Living Normative Memory in CriptoIUS | [10.5281/zenodo.21993128](https://doi.org/10.5281/zenodo.21993128) · [PDF](papers/21993128-When-Legal-Grounds-Expire-Lerer-2026.pdf) |
 | 2026-08-14 | The File Is the Phenotype: Extended Memory, Competing Fitness Functions, and the Limits of the Mind-Virus Metaphor in Multi-Agent LLM Systems | [10.5281/zenodo.21927445](https://doi.org/10.5281/zenodo.21927445) · [PDF](papers/21927445-The-File-Is-the-Phenotype-Lerer-2026.pdf) |
 | 2026-08-13 | Cryptographic Validity Is Not Runtime Admissibility: Opaque Reasoning Traces, Dynamic Classification Failure, and a Synthetic Policy-Conformance Benchmark | [10.5281/zenodo.21927142](https://doi.org/10.5281/zenodo.21927142) · [PDF](papers/21927142-Cryptographic-Validity-Is-Not-Runtime-Admissibility-Lerer-2026.pdf) · [Code and reproducibility bundle](papers/21927142-CRAG-synthetic-replication-package-v1.0.zip) |
 | 2026-08-11 | When Form Outlives State: Distinguishing Extended Phenotypic Expression from Zombie Outputs in Large Language Models | [10.5281/zenodo.21896543](https://doi.org/10.5281/zenodo.21896543) · [PDF](papers/21896543-When-Form-Outlives-State.pdf) |
