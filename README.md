@@ -14,7 +14,7 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 156 distinct works preserved in Zenodo and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 158 distinct works preserved in Zenodo and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
@@ -200,16 +200,18 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (157 hosted records, open access)
+## Papers — Zenodo (159 hosted records, open access)
 
-All papers are freely downloadable. The live inventory contains 153 records with a native Zenodo DOI and 4 records hosted by Zenodo under an external DOI. One externally assigned DOI record is an imported duplicate, leaving 156 distinct works. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
+All papers are freely downloadable. The live inventory contains 155 records with a native Zenodo DOI and 4 records hosted by Zenodo under an external DOI. One externally assigned DOI record and one native Zenodo record are imported or accidental duplicates, leaving 158 distinct works. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
-### Native Zenodo DOI records (153)
+### Native Zenodo DOI records (155)
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-08-22 | From Prohibition to Architecture: Artificial Intelligence and the Extended Phenotype of Ribā in Financial Systems | [10.5281/zenodo.22060532](https://doi.org/10.5281/zenodo.22060532) · [PDF](papers/22060532-From-Prohibition-to-Architecture-Lerer-2026.pdf) |
+| 2026-08-22 | From Prohibition to Architecture: Artificial Intelligence and the Extended Phenotype of Ribā in Financial Systems (duplicate record; canonical DOI above) | [10.5281/zenodo.22060530](https://doi.org/10.5281/zenodo.22060530) · [Canonical PDF](papers/22060532-From-Prohibition-to-Architecture-Lerer-2026.pdf) |
 | 2026-08-22 | Improvement Is Not Progress: Guarded Coevolution, Path Dependence, and Contagious Memory in AI Agents | [10.5281/zenodo.22058785](https://doi.org/10.5281/zenodo.22058785) · [PDF](papers/22058785-Improvement-Is-Not-Progress-Lerer-2026.pdf) |
-| 2026-08-17 | When Legal Grounds Expire: Warrant Withdrawal, Dependency Cascades, and Living Normative Memory in CriptoIUS | [10.5281/zenodo.21993128](https://doi.org/10.5281/zenodo.21993128) · [PDF](papers/21993128-When-Legal-Grounds-Expire-Lerer-2026.pdf) |
+| 2026-08-20 | When Legal Grounds Expire: Warrant Withdrawal, Dependency Cascades, and Living Normative Memory in CriptoIUS | [10.5281/zenodo.22019672](https://doi.org/10.5281/zenodo.22019672) · [PDF](papers/22019672-When-Legal-Grounds-Expire-Lerer-2026.pdf) |
 | 2026-08-14 | The File Is the Phenotype: Extended Memory, Competing Fitness Functions, and the Limits of the Mind-Virus Metaphor in Multi-Agent LLM Systems | [10.5281/zenodo.21927445](https://doi.org/10.5281/zenodo.21927445) · [PDF](papers/21927445-The-File-Is-the-Phenotype-Lerer-2026.pdf) |
 | 2026-08-13 | Cryptographic Validity Is Not Runtime Admissibility: Opaque Reasoning Traces, Dynamic Classification Failure, and a Synthetic Policy-Conformance Benchmark | [10.5281/zenodo.21927142](https://doi.org/10.5281/zenodo.21927142) · [PDF](papers/21927142-Cryptographic-Validity-Is-Not-Runtime-Admissibility-Lerer-2026.pdf) · [Code and reproducibility bundle](papers/21927142-CRAG-synthetic-replication-package-v1.0.zip) |
 | 2026-08-11 | When Form Outlives State: Distinguishing Extended Phenotypic Expression from Zombie Outputs in Large Language Models | [10.5281/zenodo.21896543](https://doi.org/10.5281/zenodo.21896543) · [PDF](papers/21896543-When-Form-Outlives-State.pdf) |
@@ -362,7 +364,7 @@ All papers are freely downloadable. The live inventory contains 153 records with
 | 2026-02-09 | The Altruism Paradox in Law: How Selfish Genes Create Cooperative Legal Orders | [10.5281/zenodo.18562865](https://doi.org/10.5281/zenodo.18562865) · [PDF](papers/18562865-The-Altruism-Paradox-in-Law-How-Selfish-Genes-Create-Cooperative-Legal-Orders.pdf) |
 | 2026-02-09 | Dead Language, Living Law: Latin Legal Maxims as Perfect Memes | [10.5281/zenodo.18556003](https://doi.org/10.5281/zenodo.18556003) · [PDF](papers/18556003-Dead-Language-Living-Law-Latin-Legal-Maxims-as-Perfect-Memes.pdf) |
 
-### Zenodo-hosted records with external DOI (5)
+### Zenodo-hosted records with external DOI (4)
 
 These records are part of the public Zenodo inventory even though their DOI was assigned by another registry. The two SSRN imports duplicate works already represented above by a native Zenodo DOI. Withdrawal was requested from Zenodo on 2026-08-14. Until Zenodo processes the requests, the rows remain here for record-level audit purposes, point to the canonical repository copies, and are not counted as additional works.
 
@@ -373,7 +375,6 @@ After each Zenodo upload, run `python3 tools/audit_zenodo_inventory.py`. The aud
 | 2026-04-08 | Computational Detection of Constitutional Drift: Network Analysis and Semantic Measurement of Argentine Supreme Court Jurisprudence (1922–2025) | [10.47852/bonviewJCLLT62027951](https://doi.org/10.47852/bonviewJCLLT62027951) | [19464258](https://zenodo.org/records/19464258) | [PDF](papers/19464258-Computational-Detection-of-Constitutional-Drift-JCLLT.pdf) | Published journal article; unique work |
 | 2026-03-07 | Criptoius: Technical and Philosophical Foundations. A Blockchain-Based Decentralized Legal Precedent System | [10.13140/RG.2.2.16378.56000](https://doi.org/10.13140/RG.2.2.16378.56000) | [18903854](https://zenodo.org/records/18903854) | [PDF](papers/18903854-Criptoius-Technical-and-Philosophical-Foundations.pdf) | Unique work; ResearchGate DOI |
 | 2026-03-07 | Criptoius: A Global Evolutionary Legal System Through Blockchain | [10.13140/RG.2.2.26444.88965](https://doi.org/10.13140/RG.2.2.26444.88965) | [18903814](https://zenodo.org/records/18903814) | [PDF](papers/18903814-Criptoius-A-Global-Evolutionary-Legal-System-Through-Blockchain.pdf) | Unique work; ResearchGate DOI |
-| 2025-10-09 | Why Token-Based Legal AI Cannot Model Post-Colonial Compliance Dynamics | [10.2139/ssrn.5584450](https://doi.org/10.2139/ssrn.5584450) | [19373185](https://zenodo.org/records/19373185) | [Canonical PDF](papers/18576911-Beyond-WEIRD-Bias-Why-Token-Based-Legal-AI-Cannot-Model-Post-Colonial-Compliance-Dynam.pdf) | Exact duplicate of [10.5281/zenodo.18576911](https://doi.org/10.5281/zenodo.18576911); withdrawal requested 2026-08-14 |
 | 2025-08-15 | JurisRank: Measuring Legal Phenotypic Fitness Through Citation Networks: A Darwinian Approach to Legal Evolution with Dual Methodological Validation | [10.2139/ssrn.5405459](https://doi.org/10.2139/ssrn.5405459) | [18903997](https://zenodo.org/records/18903997) | [Canonical PDF](papers/20613103-JurisRank-Measuring-Legal-Phenotypic-Fitness-Through-Citation-Networks.pdf) | Exact duplicate of [10.5281/zenodo.20613103](https://doi.org/10.5281/zenodo.20613103); withdrawal requested 2026-08-14 |
 
 ---
