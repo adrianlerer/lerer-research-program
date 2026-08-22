@@ -14,7 +14,7 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 158 distinct works preserved in Zenodo and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 157 distinct works preserved in Zenodo and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
@@ -200,16 +200,15 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (159 hosted records, open access)
+## Papers — Zenodo (158 hosted records, open access)
 
-All papers are freely downloadable. The live inventory contains 155 records with a native Zenodo DOI and 4 records hosted by Zenodo under an external DOI. One externally assigned DOI record and one native Zenodo record are imported or accidental duplicates, leaving 158 distinct works. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
+All papers are freely downloadable. The live inventory contains 154 records with a native Zenodo DOI and 4 records hosted by Zenodo under an external DOI. One externally assigned DOI record is an imported duplicate, leaving 157 distinct works. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
-### Native Zenodo DOI records (155)
+### Native Zenodo DOI records (154)
 
 | Date | Title | DOI |
 |------|-------|-----|
 | 2026-08-22 | From Prohibition to Architecture: Artificial Intelligence and the Extended Phenotype of Ribā in Financial Systems | [10.5281/zenodo.22060532](https://doi.org/10.5281/zenodo.22060532) · [PDF](papers/22060532-From-Prohibition-to-Architecture-Lerer-2026.pdf) |
-| 2026-08-22 | From Prohibition to Architecture: Artificial Intelligence and the Extended Phenotype of Ribā in Financial Systems (duplicate record; canonical DOI above) | [10.5281/zenodo.22060530](https://doi.org/10.5281/zenodo.22060530) · [Canonical PDF](papers/22060532-From-Prohibition-to-Architecture-Lerer-2026.pdf) |
 | 2026-08-22 | Improvement Is Not Progress: Guarded Coevolution, Path Dependence, and Contagious Memory in AI Agents | [10.5281/zenodo.22058785](https://doi.org/10.5281/zenodo.22058785) · [PDF](papers/22058785-Improvement-Is-Not-Progress-Lerer-2026.pdf) |
 | 2026-08-20 | When Legal Grounds Expire: Warrant Withdrawal, Dependency Cascades, and Living Normative Memory in CriptoIUS | [10.5281/zenodo.22019672](https://doi.org/10.5281/zenodo.22019672) · [PDF](papers/22019672-When-Legal-Grounds-Expire-Lerer-2026.pdf) |
 | 2026-08-14 | The File Is the Phenotype: Extended Memory, Competing Fitness Functions, and the Limits of the Mind-Virus Metaphor in Multi-Agent LLM Systems | [10.5281/zenodo.21927445](https://doi.org/10.5281/zenodo.21927445) · [PDF](papers/21927445-The-File-Is-the-Phenotype-Lerer-2026.pdf) |
