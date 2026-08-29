@@ -10,6 +10,16 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 ---
 
+## Latest Publication
+
+**The Agent Harness as Extended Phenotype: Multilevel Selection, Governed Transfer, and the Hidden Cost of Improving AI Agents** (2026, Version 1.0)
+
+- [Paper PDF](papers/22164062-The-Agent-Harness-as-Extended-Phenotype.pdf)
+- [Reproducibility package](papers/22164062-The-Agent-Harness-as-Extended-Phenotype-reproducibility.zip)
+- DOI: [10.5281/zenodo.22164062](https://doi.org/10.5281/zenodo.22164062)
+
+Citation: LERER, I. A. (2026). *The Agent Harness as Extended Phenotype: Multilevel Selection, Governed Transfer, and the Hidden Cost of Improving AI Agents* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.22164062
+
 ## About the Researcher
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
