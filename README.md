@@ -12,19 +12,18 @@ Substack: [adrianlerer.substack.com](https://adrianlerer.substack.com/)
 
 ## Latest Publication
 
-**The Agent Harness as Extended Phenotype: Multilevel Selection, Governed Transfer, and the Hidden Cost of Improving AI Agents** (2026, Version 1.0)
+**Law as a Recursive Super-Attractor: Subjective Selection, Extended Phenotypes, Gouldian Constraints, and Strategic Stability in Legal Evolution** (2026, Version 1.0)
 
-- [Paper PDF](papers/22164062-The-Agent-Harness-as-Extended-Phenotype.pdf)
-- [Reproducibility package](papers/22164062-The-Agent-Harness-as-Extended-Phenotype-reproducibility.zip)
-- DOI: [10.5281/zenodo.22164062](https://doi.org/10.5281/zenodo.22164062)
+- [Paper PDF](papers/22727478-Law-as-a-Recursive-Super-Attractor.pdf)
+- DOI: [10.5281/zenodo.22727478](https://doi.org/10.5281/zenodo.22727478)
 
-Citation: LERER, I. A. (2026). *The Agent Harness as Extended Phenotype: Multilevel Selection, Governed Transfer, and the Hidden Cost of Improving AI Agents* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.22164062
+Citation: LERER, I. A. (2026). *Law as a Recursive Super-Attractor: Subjective Selection, Extended Phenotypes, Gouldian Constraints, and Strategic Stability in Legal Evolution* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.22727478
 
 ## About the Researcher
 
 Ignacio Adrián Lerer is a lawyer (Universidad de Buenos Aires) and Executive MBA (IAE Business School, Universidad Austral) based in Buenos Aires, Argentina. He is an independent researcher working at the intersection of evolutionary biology, game theory, institutional economics, and law.
 
-His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 159 distinct works preserved in Zenodo and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
+His research program applies Dawkins's (1982) Extended Phenotype Theory and Dennett's intentionality hierarchy to legal institutions, producing a suite of quantitative diagnostic instruments validated against empirical datasets from four jurisdictions. He maintains 160 distinct works preserved in Zenodo and a historical SSRN archive of 62 records, with all SSRN archive entries cross-referenced to their Zenodo records. SSRN currently exposes only a subset of that historical archive, so this repository and Zenodo are the authoritative preservation sources. He has one article published and one manuscript under review at the *Journal of Computational Law and Legal Technology* (JCLLT).
 
 He is not affiliated with a university. All work is independent research.
 
