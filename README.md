@@ -225,6 +225,7 @@ Draft mirrors track the current file and metadata state in Zenodo but are not pa
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-09-21 | Instructions, Consequences, and Human Judgment: Normativity and Liability in Agentic Systems through Extended Phenotypes and Evolutionary Games | [10.5281/zenodo.22865718](https://doi.org/10.5281/zenodo.22865718) · [PDF](papers/22865718-Instructions-Consequences-Human-Judgment-v0.2-EN.pdf) · Conceptual preprint, no new experiments or independent peer review |
 | 2026-09-07 | Synthetic Publicity: Common Knowledge and Heteronomous Bayesian Updating in Generative Information Environments | [10.5281/zenodo.22581210](https://doi.org/10.5281/zenodo.22581210) · [PDF](papers/22581210-Synthetic-Publicity-Common-Knowledge-and-Heteronomous-Bayesian-Updating-in-Generative-Information-Environments.pdf) |
 | 2026-08-22 | From Metaphor to Identification: A Causal Architecture for the Extended Phenotype Theory of Law | [10.5281/zenodo.22062929](https://doi.org/10.5281/zenodo.22062929) · [PDF](papers/22062929-From-Metaphor-to-Identification-Lerer-2026.pdf) |
 | 2026-08-22 | From Prohibition to Architecture: Artificial Intelligence and the Extended Phenotype of Ribā in Financial Systems | [10.5281/zenodo.22060532](https://doi.org/10.5281/zenodo.22060532) · [PDF](papers/22060532-From-Prohibition-to-Architecture-Lerer-2026.pdf) |
