@@ -209,9 +209,9 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (160 hosted records, open access)
+## Papers — Zenodo (161 hosted records, open access)
 
-All papers are freely downloadable. The live inventory contains 156 records with a native Zenodo DOI and 4 records hosted by Zenodo under an external DOI. One externally assigned DOI record is an imported duplicate, leaving 159 distinct works. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
+All papers are freely downloadable. The live inventory contains 157 records with a native Zenodo DOI and 4 records hosted by Zenodo under an external DOI. One externally assigned DOI record is an imported duplicate, leaving 160 distinct works. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 ### Zenodo draft mirrors
 
@@ -221,10 +221,11 @@ Draft mirrors track the current file and metadata state in Zenodo but are not pa
 |---------|------|-------|----------------|-----------------|
 | 2.0 | 2026-09-12 | Before the Command Was Spoken: Pre-Linguistic Coordination and the Evolutionary Substrate of Law | DOI reserved: `10.5281/zenodo.22726083`; draft, not published | [PDF](papers/22726083-Before-the-Command-Was-Spoken-Pre-Linguistic-Coordination-and-the-Evolutionary-Substrate-of-Law-v2.pdf) |
 
-### Native Zenodo DOI records (156)
+### Native Zenodo DOI records (157)
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-09-24 | The Open Hive and Its Gatekeepers: Freedom, Reassociation, and the Anti-Eusocial Limit of the Social Contract | [10.5281/zenodo.22948942](https://doi.org/10.5281/zenodo.22948942) · [PDF](papers/22948942-The-Open-Hive-and-Its-Gatekeepers-v1.0.pdf) · Conceptual preprint, no new empirical study or independent peer review |
 | 2026-09-21 | Instructions, Consequences, and Human Judgment: Normativity and Liability in Agentic Systems through Extended Phenotypes and Evolutionary Games | [10.5281/zenodo.22865718](https://doi.org/10.5281/zenodo.22865718) · [PDF](papers/22865718-Instructions-Consequences-Human-Judgment-v0.2-EN.pdf) · Conceptual preprint, no new experiments or independent peer review |
 | 2026-09-07 | Synthetic Publicity: Common Knowledge and Heteronomous Bayesian Updating in Generative Information Environments | [10.5281/zenodo.22581210](https://doi.org/10.5281/zenodo.22581210) · [PDF](papers/22581210-Synthetic-Publicity-Common-Knowledge-and-Heteronomous-Bayesian-Updating-in-Generative-Information-Environments.pdf) |
 | 2026-08-22 | From Metaphor to Identification: A Causal Architecture for the Extended Phenotype Theory of Law | [10.5281/zenodo.22062929](https://doi.org/10.5281/zenodo.22062929) · [PDF](papers/22062929-From-Metaphor-to-Identification-Lerer-2026.pdf) |
