@@ -1,6 +1,8 @@
 # Lerer Research Program
 ## Extended Phenotype Theory of Law · Evolutionary Game Theory · Institutional Design
 
+> **Correction issued 17 October 2026:** *“General Welfare” and “Common Good”* is now available in corrected **version 1.1**: [Zenodo](https://doi.org/10.5281/zenodo.23441400) · [PDF](papers/23441400-General-Welfare-Common-Good-v1.1-2026-10-17.pdf) · [Correction notice](corrections/20612927-General-Welfare-Common-Good-v1.1.md). [Version 1.0](https://doi.org/10.5281/zenodo.20612927) and both original repository PDFs are preserved unchanged. The correction distinguishes the Preamble’s *bienestar general*, Article 75(2)’s *bien general del Estado*, and the doctrinal category *bien común*.
+
 **Ignacio Adrián Lerer**
 Independent Researcher · Buenos Aires, Argentina
 ORCID: [0009-0007-6378-9749](https://orcid.org/0009-0007-6378-9749)
@@ -209,9 +211,9 @@ Modified PageRank over judicial citation networks with temporal decay. Validated
 
 ---
 
-## Papers — Zenodo (161 hosted records, open access)
+## Papers — Zenodo (162 hosted records, open access)
 
-All papers are freely downloadable. The live inventory contains 157 records with a native Zenodo DOI and 4 records hosted by Zenodo under an external DOI. One externally assigned DOI record is an imported duplicate, leaving 160 distinct works. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
+All papers are freely downloadable. The live inventory contains 158 records with a native Zenodo DOI and 4 records hosted by Zenodo under an external DOI. One externally assigned DOI record is an imported duplicate, and the corrected v1.1 adds a version record rather than a distinct work, leaving 160 distinct works. Communities: [law-as-extended-phenotype](https://zenodo.org/communities/law-as-extended-phenotype/) · [small-concept-models](https://zenodo.org/communities/small-concept-models/).
 
 ### Zenodo draft mirrors
 
@@ -221,10 +223,11 @@ Draft mirrors track the current file and metadata state in Zenodo but are not pa
 |---------|------|-------|----------------|-----------------|
 | 2.0 | 2026-09-12 | Before the Command Was Spoken: Pre-Linguistic Coordination and the Evolutionary Substrate of Law | DOI reserved: `10.5281/zenodo.22726083`; draft, not published | [PDF](papers/22726083-Before-the-Command-Was-Spoken-Pre-Linguistic-Coordination-and-the-Evolutionary-Substrate-of-Law-v2.pdf) |
 
-### Native Zenodo DOI records (157)
+### Native Zenodo DOI records (158)
 
 | Date | Title | DOI |
 |------|-------|-----|
+| 2026-10-17 | "General Welfare" and "Common Good" as Evolutionary Attractors in Constitutional Law — corrected version 1.1 | [10.5281/zenodo.23441400](https://doi.org/10.5281/zenodo.23441400) · [PDF](papers/23441400-General-Welfare-Common-Good-v1.1-2026-10-17.pdf) · [Correction notice](corrections/20612927-General-Welfare-Common-Good-v1.1.md) |
 | 2026-09-24 | The Open Hive and Its Gatekeepers: Freedom, Reassociation, and the Anti-Eusocial Limit of the Social Contract | [10.5281/zenodo.22948942](https://doi.org/10.5281/zenodo.22948942) · [PDF](papers/22948942-The-Open-Hive-and-Its-Gatekeepers-v1.0.pdf) · Conceptual preprint, no new empirical study or independent peer review |
 | 2026-09-21 | Instructions, Consequences, and Human Judgment: Normativity and Liability in Agentic Systems through Extended Phenotypes and Evolutionary Games | [10.5281/zenodo.22865718](https://doi.org/10.5281/zenodo.22865718) · [PDF](papers/22865718-Instructions-Consequences-Human-Judgment-v0.2-EN.pdf) · Conceptual preprint, no new experiments or independent peer review |
 | 2026-09-07 | Synthetic Publicity: Common Knowledge and Heteronomous Bayesian Updating in Generative Information Environments | [10.5281/zenodo.22581210](https://doi.org/10.5281/zenodo.22581210) · [PDF](papers/22581210-Synthetic-Publicity-Common-Knowledge-and-Heteronomous-Bayesian-Updating-in-Generative-Information-Environments.pdf) |
@@ -275,7 +278,7 @@ Draft mirrors track the current file and metadata state in Zenodo but are not pa
 | 2026-06-09 | Blind Breeders: The Extended Phenotype of Unintentional Institutional Design | [10.5281/zenodo.20612948](https://doi.org/10.5281/zenodo.20612948) · [PDF](papers/20612948-Blind-Breeders-The-Extended-Phenotype-of-Unintentional-Institutional-Design.pdf) |
 | 2026-06-09 | Archaeological Scaffolding of Law: Institutional Layers and Memetic Stratigraphy | [10.5281/zenodo.20612939](https://doi.org/10.5281/zenodo.20612939) · [PDF](papers/20612939-Archaeological-Scaffolding-of-Law-Institutional-Layers-and-Memetic-Stratigraphy.pdf) |
 | 2026-06-09 | Against Multilevel Selection in Legal Evolution: A Defense and Restatement | [10.5281/zenodo.20612935](https://doi.org/10.5281/zenodo.20612935) · [PDF](papers/20612935-Against-Multilevel-Selection-in-Legal-Evolution-A-Defense-and-Restatement.pdf) |
-| 2026-06-09 | "General Welfare" and "Common Good" as Evolutionary Attractors in Constitutional Law | [10.5281/zenodo.20612927](https://doi.org/10.5281/zenodo.20612927) · [PDF](papers/20612927-General-Welfare-and-Common-Good-as-Evolutionary-Attractors-in-Constitutional-Law.pdf) |
+| 2026-06-09 | "General Welfare" and "Common Good" as Evolutionary Attractors in Constitutional Law | [10.5281/zenodo.20612927](https://doi.org/10.5281/zenodo.20612927) · Version 1.0, superseded by [v1.1](https://doi.org/10.5281/zenodo.23441400) · [Original PDF](papers/20612927-General-Welfare-and-Common-Good-as-Evolutionary-Attractors-in-Constitutional-Law.pdf) |
 | 2026-06-09 | Epistemological Clergies: When Orthodoxy Becomes Institutional Selection Pressure | [10.5281/zenodo.20612925](https://doi.org/10.5281/zenodo.20612925) · [PDF](papers/20612925-Epistemological-Clergies-When-Orthodoxy-Becomes-Institutional-Selection-Pressure.pdf) |
 | 2026-06-09 | Beyond Stated Preferences: Tacit Consensus as Cultural Lock-in | [10.5281/zenodo.20612923](https://doi.org/10.5281/zenodo.20612923) · [PDF](papers/20612923-Beyond-Stated-Preferences-Tacit-Consensus-as-Cultural-Lock-in.pdf) |
 | 2026-06-09 | Uruguay and the Fossilization Meme: Testing EPT Against a Positive Case | [10.5281/zenodo.20612916](https://doi.org/10.5281/zenodo.20612916) · [PDF](papers/20612916-Uruguay-and-the-Fossilization-Meme-Testing-EPT-Against-a-Positive-Case.pdf) |
